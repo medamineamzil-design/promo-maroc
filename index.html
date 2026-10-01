@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#c1272d">
+  <meta name="description" content="Promotions commerciales au Maroc : prix original, prix promo, pourcentage, date de début et de fin.">
+  <title>Promo Maroc</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <img src="icon.svg" alt="" width="32" height="32">
+      <div>
+        <h1>Promo Maroc</h1>
+        <p class="subtitle">Les vraies promos, avec les dates</p>
+      </div>
+    </div>
+    <button id="btnTheme" class="icon-btn" aria-label="Changer de thème">◐</button>
+  </header>
+
+  <section id="featured" class="featured" aria-labelledby="featuredTitle">
+    <div class="featured-head">
+      <h2 id="featuredTitle">🔥 Promotions phares</h2>
+      <span id="featuredInfo" class="muted"></span>
+    </div>
+    <div id="featuredList" class="featured-list"></div>
+  </section>
+
+  <section class="search-zone">
+    <h2 class="section-title">Toutes les promotions</h2>
+    <input id="search" type="search" placeholder="Rechercher un produit, une enseigne…" autocomplete="off">
+    <div class="filters">
+      <select id="fStore" aria-label="Magasin"></select>
+      <select id="fCat" aria-label="Nature du produit"></select>
+      <select id="fCity" aria-label="Ville"></select>
+      <select id="fStatus" aria-label="Statut">
+        <option value="active">En cours</option>
+        <option value="upcoming">À venir</option>
+        <option value="expired">Expirées</option>
+        <option value="all">Toutes</option>
+      </select>
+      <select id="fSort" aria-label="Trier">
+        <option value="discount">% le plus élevé</option>
+        <option value="ending">Se termine bientôt</option>
+        <option value="saving">Plus grosse économie</option>
+        <option value="priceAsc">Prix promo croissant</option>
+        <option value="recent">Plus récentes</option>
+      </select>
+      <select id="fMin" aria-label="Remise minimum">
+        <option value="0">Remise min.</option>
+        <option value="10">≥ 10 %</option>
+        <option value="20">≥ 20 %</option>
+        <option value="30">≥ 30 %</option>
+        <option value="50">≥ 50 %</option>
+      </select>
+    </div>
+    <div id="categories" class="chips" role="tablist" aria-label="Nature du produit"></div>
+    <button id="btnClear" class="link-btn" hidden>✕ Effacer les filtres</button>
+  </section>
+
+  <main>
+    <div id="stats" class="stats"></div>
+    <div id="list" class="list"></div>
+    <p id="empty" class="empty" hidden>Aucune promotion ne correspond à vos critères.</p>
+  </main>
+
+  <nav class="bottombar">
+    <button data-view="all" class="active"><span>🏷️</span>Promos</button>
+    <button data-view="fav"><span>♥</span>Favoris</button>
+    <button id="btnAdd" class="add"><span>＋</span>Ajouter</button>
+    <button data-view="sources"><span>📚</span>Sources</button>
+    <button id="btnMore"><span>⋯</span>Plus</button>
+  </nav>
+
+  <!-- Détail d'une promotion -->
+  <dialog id="dlgDetail" class="sheet"></dialog>
+
+  <!-- Formulaire d'ajout / modification -->
+  <dialog id="dlgForm" class="sheet">
+    <form id="promoForm" method="dialog" novalidate>
+      <div class="sheet-head">
+        <h2 id="formTitle">Nouvelle promotion</h2>
+        <button type="button" class="icon-btn" data-close aria-label="Fermer">✕</button>
+      </div>
+      <input type="hidden" name="id">
+      <label>Produit *<input name="product" required maxlength="120" placeholder="ex. Huile de table 5 L"></label>
+      <label>Marque<input name="brand" maxlength="60"></label>
+      <div class="row">
+        <label>Enseigne *<input name="store" required list="storeList" maxlength="60"></label>
+        <label>Ville *<select name="city" required id="formCity"></select></label>
+      </div>
+      <datalist id="storeList"></datalist>
+      <label>Catégorie *<select name="category" required id="formCategory"></select></label>
+      <div class="row">
+        <label>Prix original (DH) *<input name="originalPrice" type="number" step="0.01" min="0.01" required inputmode="decimal"></label>
+        <label>Prix promo (DH) *<input name="promoPrice" type="number" step="0.01" min="0" required inputmode="decimal"></label>
+      </div>
+      <label>Pourcentage de remise (%)<input name="percent" type="number" step="0.1" min="0" max="100" inputmode="decimal" placeholder="calculé automatiquement"></label>
+      <p class="hint">Saisissez deux valeurs parmi prix original / prix promo / pourcentage : la troisième est calculée.</p>
+      <div class="row">
+        <label>Date début *<input name="startDate" type="date" required></label>
+        <label>Date fin *<input name="endDate" type="date" required></label>
+      </div>
+      <label>Source (lien du catalogue, photo de l'affiche…)<input name="source" type="url" placeholder="https://"></label>
+      <label>Conditions<textarea name="conditions" rows="2" maxlength="300" placeholder="ex. dans la limite des stocks, avec carte fidélité…"></textarea></label>
+      <p id="formError" class="error" role="alert"></p>
+      <div class="actions">
+        <button type="button" class="btn ghost" data-close>Annuler</button>
+        <button type="submit" class="btn primary">Enregistrer</button>
+      </div>
+    </form>
+  </dialog>
+
+  <!-- Menu "Plus" -->
+  <dialog id="dlgMore" class="sheet">
+    <div class="sheet-head">
+      <h2>Plus</h2>
+      <button type="button" class="icon-btn" data-close aria-label="Fermer">✕</button>
+    </div>
+    <div class="menu">
+      <button id="btnMine" class="btn ghost">📝 Mes promotions ajoutées</button>
+      <button id="btnExport" class="btn ghost">⬇️ Exporter mes promotions (JSON)</button>
+      <label class="btn ghost file">⬆️ Importer des promotions (JSON)
+        <input id="fileImport" type="file" accept="application/json,.json" hidden>
+      </label>
+      <label class="switch"><input type="checkbox" id="toggleDemo"> Afficher les exemples de démonstration</label>
+      <button id="btnReset" class="btn danger">Effacer toutes mes données</button>
+    </div>
+    <p class="about">
+      Les promotions <b>Mise à jour auto</b> sont relevées chaque matin sur les sites des vendeurs (onglet <b>Sources</b>) ;
+      quand le vendeur n'affiche pas de date de fin, la date de début est le jour de la première détection.
+      Les promotions marquées <b>Exemple</b> servent uniquement de démonstration. Vérifiez toujours le prix final chez le vendeur.
+      Les promotions que vous ajoutez restent sur votre téléphone.
+    </p>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

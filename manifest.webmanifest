@@ -1,0 +1,15 @@
+{
+  "name": "Promo Maroc — Promotions commerciales",
+  "short_name": "Promo Maroc",
+  "description": "Promotions au Maroc : prix original, prix promo, pourcentage, date de début et de fin.",
+  "lang": "fr-MA",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f6f8",
+  "theme_color": "#c1272d",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

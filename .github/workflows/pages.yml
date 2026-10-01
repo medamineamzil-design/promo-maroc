@@ -1,0 +1,45 @@
+name: Publication du site
+
+# Publie l'application sur GitHub Pages : à chaque modification et après chaque mise à jour quotidienne.
+on:
+  push:
+    branches: [main]
+  workflow_run:
+    workflows: ["Mise à jour quotidienne des promotions"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Préparer le site (sans le robot)
+        run: |
+          mkdir -p _site
+          cp -r index.html app.js data.js styles.css sw.js manifest.webmanifest icon.svg sources.json data _site/
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

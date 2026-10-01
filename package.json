@@ -1,0 +1,15 @@
+{
+  "name": "promo-maroc-robot",
+  "private": true,
+  "type": "module",
+  "description": "Robot de collecte quotidienne des promotions de Promo Maroc",
+  "scripts": {
+    "update": "node scripts/update-promos.mjs",
+    "catalogues": "node scripts/catalogues.mjs",
+    "test": "node --test scripts/test/parsers.test.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "zod": "^4.6.5"
+  }
+}

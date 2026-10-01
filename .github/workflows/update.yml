@@ -1,0 +1,70 @@
+name: Mise à jour quotidienne des promotions
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # tous les jours vers 6 h 17 (heure du Maroc, UTC+1)
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Identifiants de sources à collecter (séparés par des virgules), vide = toutes"
+        required: false
+      debug:
+        description: "Diagnostic seulement (aucune écriture) : identifiants de sources ou adresses à analyser"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: promo-maroc-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Installation (SDK Claude pour la lecture des catalogues)
+        run: npm ci --no-audit --no-fund
+
+      - name: Tests des analyseurs
+        run: node --test scripts/test/parsers.test.mjs
+
+      - name: Diagnostic des sources
+        if: ${{ inputs.debug }}
+        env:
+          DEBUG_IDS: ${{ inputs.debug }}
+        run: node scripts/debug-source.mjs "$DEBUG_IDS"
+
+      - name: Lecture des catalogues des grandes surfaces (IA)
+        if: ${{ !inputs.debug }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ONLY: ${{ inputs.only }}
+        run: node scripts/catalogues.mjs ${ONLY:+--only="$ONLY"}
+
+      - name: Collecte des promotions
+        if: ${{ !inputs.debug }}
+        env:
+          ONLY: ${{ inputs.only }}
+        run: node scripts/update-promos.mjs ${ONLY:+--only="$ONLY"}
+
+      - name: Enregistrer les nouvelles promotions
+        if: ${{ !inputs.debug }}
+        run: |
+          git config user.name "promo-maroc-bot"
+          git config user.email "promo-maroc-bot@users.noreply.github.com"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git add data/promotions.json data/catalogues.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Promotions du $(date -u +%F)"
+            git push
+          fi

@@ -1,3 +1,1132 @@
 {
- "catalogues": {}
+ "catalogues": {
+  "https://www.aswakassalam.com/Import_catalogue/catalogue_saveurs_du_maroc2/": {
+   "sourceId": "aswak-catalogue",
+   "store": "Aswak Assalam",
+   "title": "منتوج بلادنا... فخر لينا ! – Made in Morocco",
+   "page": "https://aswakassalam.com/catalogue/",
+   "file": "https://www.aswakassalam.com/Import_catalogue/catalogue_saveurs_du_maroc2/files/mobile/1.jpg",
+   "startDate": "2026-09-18",
+   "endDate": "2026-10-07",
+   "cities": null,
+   "readAt": "2026-10-02",
+   "products": [
+    {
+     "product": "Lot de 2 thés verts 41022 en filaments 200g",
+     "brand": "Tiyay",
+     "category": "boissons",
+     "originalPrice": 37.5,
+     "promoPrice": 33.95,
+     "conditions": "1 acheté -50% sur le 2ème"
+    },
+    {
+     "product": "Nectar d'orange 1L",
+     "brand": "Al Boustane",
+     "category": "boissons",
+     "originalPrice": 12.5,
+     "promoPrice": 10.95,
+     "conditions": null
+    },
+    {
+     "product": "Boisson à la pulpe d'orange 1L",
+     "brand": "Cappy Pulpy",
+     "category": "boissons",
+     "originalPrice": 11.95,
+     "promoPrice": 10.95,
+     "conditions": null
+    },
+    {
+     "product": "Boisson gazeuse 1L divers parfums",
+     "brand": "Ice",
+     "category": "boissons",
+     "originalPrice": 5.5,
+     "promoPrice": 4.75,
+     "conditions": null
+    },
+    {
+     "product": "Boisson gazeuse 25cl divers parfums",
+     "brand": "La Cigogne",
+     "category": "boissons",
+     "originalPrice": 4.5,
+     "promoPrice": 3.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack de 4 boissons gazeuses 1L",
+     "brand": "Coca-Cola",
+     "category": "boissons",
+     "originalPrice": 32,
+     "promoPrice": 28.95,
+     "conditions": null
+    },
+    {
+     "product": "Eau minérale gazeuse 1L",
+     "brand": "Oulmes",
+     "category": "boissons",
+     "originalPrice": 7.5,
+     "promoPrice": 6.5,
+     "conditions": null
+    },
+    {
+     "product": "Eau minérale pack de 12 bouteilles 50cl",
+     "brand": "Sidi Ali",
+     "category": "boissons",
+     "originalPrice": 35.4,
+     "promoPrice": 29.4,
+     "conditions": "10 achetés = 2 gratuits"
+    },
+    {
+     "product": "Eau minérale pack de 6 bouteilles 1,5L",
+     "brand": "Ain Saïss",
+     "category": "boissons",
+     "originalPrice": 25,
+     "promoPrice": 22.5,
+     "conditions": null
+    },
+    {
+     "product": "Eau minérale pack de 4 bouteilles 2L",
+     "brand": "Aïn Soltane",
+     "category": "boissons",
+     "originalPrice": 23.2,
+     "promoPrice": 18.95,
+     "conditions": null
+    },
+    {
+     "product": "Eau de table 5L",
+     "brand": "Aquafina",
+     "category": "boissons",
+     "originalPrice": 13,
+     "promoPrice": 10.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack miel multifleurs 500g + miel de chardon 500g",
+     "brand": "Miel Chahda",
+     "category": "alimentation",
+     "originalPrice": 158.95,
+     "promoPrice": 145.95,
+     "conditions": "Gratuit : amlou 200g amande et huile d'argan"
+    },
+    {
+     "product": "Lot de 2 thés verts 41022 en filaments 200g",
+     "brand": "Sultan",
+     "category": "boissons",
+     "originalPrice": 40.95,
+     "promoPrice": 37.95,
+     "conditions": "Verre gratuit"
+    },
+    {
+     "product": "Café moulu 180g",
+     "brand": "Samar",
+     "category": "boissons",
+     "originalPrice": 43.95,
+     "promoPrice": 38.95,
+     "conditions": "Gratuit : café moulu 40g"
+    },
+    {
+     "product": "Café moulu 200g",
+     "brand": "Grand Mère",
+     "category": "boissons",
+     "originalPrice": 42.5,
+     "promoPrice": 32.95,
+     "conditions": null
+    },
+    {
+     "product": "Préparation en poudre au cacao 250g",
+     "brand": "Chocao Energie",
+     "category": "alimentation",
+     "originalPrice": 22.95,
+     "promoPrice": 19.95,
+     "conditions": null
+    },
+    {
+     "product": "Lot confiture pomme 37cl + abricot 37cl",
+     "brand": "El Baraka",
+     "category": "alimentation",
+     "originalPrice": 20.95,
+     "promoPrice": 19.95,
+     "conditions": "-50% sur le 2ème"
+    },
+    {
+     "product": "Céréales 310g",
+     "brand": "Nesquik - Nestlé",
+     "category": "alimentation",
+     "originalPrice": 39.95,
+     "promoPrice": 35.95,
+     "conditions": "Gratuit : Nesquik 150g"
+    },
+    {
+     "product": "Céréales double chocolat lait 550g",
+     "brand": "Tchico XXL Révey",
+     "category": "alimentation",
+     "originalPrice": 41.95,
+     "promoPrice": 38.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack génoise fourrée Big M 52g x 10",
+     "brand": "Merendina",
+     "category": "alimentation",
+     "originalPrice": 28.5,
+     "promoPrice": 24.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack 4 biscuits fourrés 34g + 2 biscuits tablettes 55g",
+     "brand": "Nooco",
+     "category": "alimentation",
+     "originalPrice": 16.95,
+     "promoPrice": 14.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack de 5 barres chocolatées 45g",
+     "brand": "Nooco",
+     "category": "alimentation",
+     "originalPrice": 19.95,
+     "promoPrice": 17.95,
+     "conditions": "4 achetés = 1 gratuit"
+    },
+    {
+     "product": "Pack 3 tablettes chocolat 85g",
+     "brand": "Nooco",
+     "category": "alimentation",
+     "originalPrice": 26.95,
+     "promoPrice": 23.95,
+     "conditions": "2 achetés = 1 gratuit"
+    },
+    {
+     "product": "Biscuits recette traditionnelle marocaine 120g",
+     "brand": "Orientines",
+     "category": "alimentation",
+     "originalPrice": 24.9,
+     "promoPrice": 20.95,
+     "conditions": null
+    },
+    {
+     "product": "Lot amandes et cacahuètes (3x150g + 100g)",
+     "brand": "Chahda",
+     "category": "alimentation",
+     "originalPrice": 57.5,
+     "promoPrice": 51.95,
+     "conditions": null
+    },
+    {
+     "product": "Lot de 4 crackers salés 100g",
+     "brand": "Krit - Cuétara",
+     "category": "alimentation",
+     "originalPrice": 25.95,
+     "promoPrice": 23.95,
+     "conditions": "3 achetés = 1 gratuit"
+    },
+    {
+     "product": "Préparation en poudre pour mousse/glace",
+     "brand": "Idéal",
+     "category": "alimentation",
+     "originalPrice": 14.95,
+     "promoPrice": 12.95,
+     "conditions": null
+    },
+    {
+     "product": "Mélange de graines 200g",
+     "brand": "Oncle Sam",
+     "category": "alimentation",
+     "originalPrice": 31.95,
+     "promoPrice": 25.6,
+     "conditions": null
+    },
+    {
+     "product": "Pruneaux 250g",
+     "brand": "Oncle Sam",
+     "category": "alimentation",
+     "originalPrice": 32.2,
+     "promoPrice": 23.3,
+     "conditions": null
+    },
+    {
+     "product": "Quinoa blanc 450g",
+     "brand": "Oncle Sam",
+     "category": "alimentation",
+     "originalPrice": 35.95,
+     "promoPrice": 29.5,
+     "conditions": null
+    },
+    {
+     "product": "Riz long jaune 900g",
+     "brand": "Oncle Sam",
+     "category": "alimentation",
+     "originalPrice": 22.95,
+     "promoPrice": 15.4,
+     "conditions": null
+    },
+    {
+     "product": "Riz basmati 1kg",
+     "brand": "Kohinoor",
+     "category": "alimentation",
+     "originalPrice": 61.95,
+     "promoPrice": 39.3,
+     "conditions": null
+    },
+    {
+     "product": "Couscous 5 céréales 1kg",
+     "brand": "Alitkane",
+     "category": "alimentation",
+     "originalPrice": 21.5,
+     "promoPrice": 14.5,
+     "conditions": null
+    },
+    {
+     "product": "Préparation mix pain multicéréales 1kg",
+     "brand": "Alitkane",
+     "category": "alimentation",
+     "originalPrice": 20.5,
+     "promoPrice": 14.3,
+     "conditions": null
+    },
+    {
+     "product": "Pack de 6 paquets de lait UHT entier 1L",
+     "brand": "Jibal",
+     "category": "alimentation",
+     "originalPrice": 65.7,
+     "promoPrice": 54.95,
+     "conditions": null
+    },
+    {
+     "product": "Kéfir 430g",
+     "brand": "Jibal",
+     "category": "alimentation",
+     "originalPrice": 9.95,
+     "promoPrice": 7.95,
+     "conditions": null
+    },
+    {
+     "product": "Jus de fruits au lait 900ml",
+     "brand": "Chergui Fawakih",
+     "category": "boissons",
+     "originalPrice": 12.95,
+     "promoPrice": 10.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack de 2 yaourts Fawakih Bladi 150g",
+     "brand": "Danone",
+     "category": "alimentation",
+     "originalPrice": 9.95,
+     "promoPrice": 8.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack de 8 pots de fromage nature 80g",
+     "brand": "Perly - Jaouda",
+     "category": "alimentation",
+     "originalPrice": 23.95,
+     "promoPrice": 19.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack de 16 yaourts multiarômes Jnane 110g",
+     "brand": "Chergui",
+     "category": "alimentation",
+     "originalPrice": 35.95,
+     "promoPrice": 31.95,
+     "conditions": "12 achetés = 4 gratuits"
+    },
+    {
+     "product": "Raïb du bled 450g",
+     "brand": "Fromital",
+     "category": "alimentation",
+     "originalPrice": 11.2,
+     "promoPrice": 9.95,
+     "conditions": null
+    },
+    {
+     "product": "Beurre pasteurisé 200g",
+     "brand": "Jibal",
+     "category": "alimentation",
+     "originalPrice": 22.95,
+     "promoPrice": 17.95,
+     "conditions": null
+    },
+    {
+     "product": "Pâte extra fine 500g",
+     "brand": "Fillo",
+     "category": "alimentation",
+     "originalPrice": 21.5,
+     "promoPrice": 17.95,
+     "conditions": null
+    },
+    {
+     "product": "Ricotta 100g",
+     "brand": "Le Berger",
+     "category": "alimentation",
+     "originalPrice": 8.4,
+     "promoPrice": 6.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack de 2 fromages à tartiner Jben 160g",
+     "brand": "Jibal",
+     "category": "alimentation",
+     "originalPrice": 21.95,
+     "promoPrice": 17.95,
+     "conditions": null
+    },
+    {
+     "product": "Fromage à tartiner cheddar Le Fondu 1kg",
+     "brand": "Milky Food",
+     "category": "alimentation",
+     "originalPrice": 74.95,
+     "promoPrice": 59.95,
+     "conditions": null
+    },
+    {
+     "product": "64 portions de fromage fondu",
+     "brand": "Perly-Jaouda",
+     "category": "alimentation",
+     "originalPrice": 71.95,
+     "promoPrice": 59.95,
+     "conditions": null
+    },
+    {
+     "product": "Mozzarella bloc Pizzarella Premium 250g",
+     "brand": "Gastro Mixte",
+     "category": "alimentation",
+     "originalPrice": 18.95,
+     "promoPrice": 15.95,
+     "conditions": null
+    },
+    {
+     "product": "Sauce tacos au fromage 500ml",
+     "brand": "Gastro Mixte",
+     "category": "alimentation",
+     "originalPrice": 27.95,
+     "promoPrice": 20.95,
+     "conditions": null
+    },
+    {
+     "product": "Smen pur 120g",
+     "brand": "Fromital",
+     "category": "alimentation",
+     "originalPrice": 17.5,
+     "promoPrice": 14.95,
+     "conditions": null
+    },
+    {
+     "product": "Tartinade d'aubergine ou olive noire 125g",
+     "brand": "La Monegasque",
+     "category": "alimentation",
+     "originalPrice": 25.95,
+     "promoPrice": 19.95,
+     "conditions": null
+    },
+    {
+     "product": "Mortadelle luncheon 600g",
+     "brand": "Toro",
+     "category": "alimentation",
+     "originalPrice": 21.5,
+     "promoPrice": 16.95,
+     "conditions": null
+    },
+    {
+     "product": "Salami de bœuf 100g",
+     "brand": "Dindy",
+     "category": "alimentation",
+     "originalPrice": 7.95,
+     "promoPrice": 5.95,
+     "conditions": null
+    },
+    {
+     "product": "Jambon de dinde fumé 100g",
+     "brand": "Dindy",
+     "category": "alimentation",
+     "originalPrice": 9.95,
+     "promoPrice": 7.95,
+     "conditions": null
+    },
+    {
+     "product": "15 sacs de congélation 30x40cm",
+     "brand": "Folia",
+     "category": "entretien",
+     "originalPrice": 22.95,
+     "promoPrice": 17.95,
+     "conditions": null
+    },
+    {
+     "product": "Papier cuisson 8m",
+     "brand": "Folia",
+     "category": "entretien",
+     "originalPrice": 18.95,
+     "promoPrice": 14.5,
+     "conditions": null
+    },
+    {
+     "product": "10 sacs poubelle 35L",
+     "brand": "Folia",
+     "category": "entretien",
+     "originalPrice": 13.95,
+     "promoPrice": 10.5,
+     "conditions": null
+    },
+    {
+     "product": "Couches bébé Jumbo Pack diverses tailles",
+     "brand": "Dalaa",
+     "category": "bebe",
+     "originalPrice": 88.95,
+     "promoPrice": 76.95,
+     "conditions": null
+    },
+    {
+     "product": "Shampooing Hyaluron 600ml",
+     "brand": "Elseve",
+     "category": "hygiene",
+     "originalPrice": 79.95,
+     "promoPrice": 56.95,
+     "conditions": null
+    },
+    {
+     "product": "Déodorant 200ml",
+     "brand": "Narta",
+     "category": "hygiene",
+     "originalPrice": 44.5,
+     "promoPrice": 35.95,
+     "conditions": null
+    },
+    {
+     "product": "Savon noir aux huiles essentielles 240ml",
+     "brand": "Tiyya",
+     "category": "hygiene",
+     "originalPrice": 44.95,
+     "promoPrice": 33.95,
+     "conditions": null
+    },
+    {
+     "product": "Gel douche 650ml",
+     "brand": "Taous",
+     "category": "hygiene",
+     "originalPrice": 41.95,
+     "promoPrice": 26.95,
+     "conditions": null
+    },
+    {
+     "product": "Set de 2 boîtes en verre et bambou avec plateau",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 49.95,
+     "promoPrice": 39.95,
+     "conditions": null
+    },
+    {
+     "product": "12 verres à thé motif marocain",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 85.95,
+     "promoPrice": 69.95,
+     "conditions": null
+    },
+    {
+     "product": "Bonbonnière en verre motif zellige",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 32.95,
+     "promoPrice": 26.95,
+     "conditions": null
+    },
+    {
+     "product": "6 verres à thé Zmane en verre soufflé",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 69.95,
+     "promoPrice": 54.95,
+     "conditions": null
+    },
+    {
+     "product": "6 verres à eau 345ml",
+     "brand": "LAV",
+     "category": "maison",
+     "originalPrice": 59.95,
+     "promoPrice": 45.95,
+     "conditions": null
+    },
+    {
+     "product": "Plateau rectangulaire argenté 45cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 109.95,
+     "promoPrice": 89.95,
+     "conditions": null
+    },
+    {
+     "product": "Théière en inox motif zellige 0,8L",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 149.95,
+     "promoPrice": 99.95,
+     "conditions": null
+    },
+    {
+     "product": "Carafe en verre avec bouchon motif zellige 1L",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 32.95,
+     "promoPrice": 25.95,
+     "conditions": null
+    },
+    {
+     "product": "Assiette en émail motif zellige 26cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 39.95,
+     "promoPrice": 29.95,
+     "conditions": null
+    },
+    {
+     "product": "Assiette Taous 30cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 59.95,
+     "promoPrice": 45.95,
+     "conditions": null
+    },
+    {
+     "product": "Set de 5 ustensiles de cuisine en bois",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 24.95,
+     "promoPrice": 17.95,
+     "conditions": null
+    },
+    {
+     "product": "Couscoussier en inox 10L",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 369.95,
+     "promoPrice": 299.95,
+     "conditions": null
+    },
+    {
+     "product": "Lot de 5 casseroles en inox avec manche rouge",
+     "brand": "Elite",
+     "category": "maison",
+     "originalPrice": 459.95,
+     "promoPrice": 299.95,
+     "conditions": null
+    },
+    {
+     "product": "Lot de 3 poêles revêtement en granite 16+20+24cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 179.95,
+     "promoPrice": 119.95,
+     "conditions": null
+    },
+    {
+     "product": "Tajine en terre cuite 22cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 49.95,
+     "promoPrice": 39.95,
+     "conditions": null
+    },
+    {
+     "product": "Moule à cake rectangulaire noir 31x12x7cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 34.95,
+     "promoPrice": 27.95,
+     "conditions": null
+    },
+    {
+     "product": "Boîte de conservation 680ml",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 10.95,
+     "promoPrice": 6.95,
+     "conditions": null
+    },
+    {
+     "product": "Boîte à épices en verre motif zellige",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 16.95,
+     "promoPrice": 13.95,
+     "conditions": null
+    },
+    {
+     "product": "Boîte de conservation en verre 425ml",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 10.95,
+     "promoPrice": 8.95,
+     "conditions": null
+    },
+    {
+     "product": "Organisateur extensible 12,5x9x7cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 8.95,
+     "promoPrice": 5.95,
+     "conditions": null
+    },
+    {
+     "product": "Bouteille d'huile en verre 750ml motif zellige",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 49.95,
+     "promoPrice": 42.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack de 5 boîtes de conservation",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 29.95,
+     "promoPrice": 15.95,
+     "conditions": null
+    },
+    {
+     "product": "Drap plat cotonelle 180x270cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 119.9,
+     "promoPrice": 95.9,
+     "conditions": null
+    },
+    {
+     "product": "Coussin 45x45cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 239.9,
+     "promoPrice": 199.9,
+     "conditions": null
+    },
+    {
+     "product": "Coussin 45x45cm divers modèles",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 165.9,
+     "promoPrice": 139.9,
+     "conditions": null
+    },
+    {
+     "product": "Tapis Shahrazad 60x110cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 119.9,
+     "promoPrice": 99.9,
+     "conditions": null
+    },
+    {
+     "product": "Tapis Louka 67x120cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 139.9,
+     "promoPrice": 109.9,
+     "conditions": null
+    },
+    {
+     "product": "Nappe simili cuir brodée 150cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 289.9,
+     "promoPrice": 209.9,
+     "conditions": null
+    },
+    {
+     "product": "Nappe ronde brodée 180cm + 8 serviettes",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 359.9,
+     "promoPrice": 259.9,
+     "conditions": null
+    },
+    {
+     "product": "Torchon nid d'abeille 50x70cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 19.9,
+     "promoPrice": 14.9,
+     "conditions": null
+    },
+    {
+     "product": "Lot de 2 tabliers parent et enfant",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 39.9,
+     "promoPrice": 29.9,
+     "conditions": null
+    },
+    {
+     "product": "Pack gant + manique assortis",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 39.9,
+     "promoPrice": 29.9,
+     "conditions": null
+    },
+    {
+     "product": "Serviette 30x30cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 11.9,
+     "promoPrice": 9.9,
+     "conditions": null
+    },
+    {
+     "product": "Peignoir pour adulte",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 389.9,
+     "promoPrice": 299.9,
+     "conditions": null
+    },
+    {
+     "product": "Friteuse sans huile Air Fryer 4,5x2 L",
+     "brand": "Azatech",
+     "category": "electromenager",
+     "originalPrice": 1699,
+     "promoPrice": 899,
+     "conditions": null
+    },
+    {
+     "product": "Four électrique 35L",
+     "brand": "Royal",
+     "category": "electromenager",
+     "originalPrice": 699,
+     "promoPrice": 569,
+     "conditions": null
+    },
+    {
+     "product": "Mini-four électrique 10L",
+     "brand": "Taurus",
+     "category": "electromenager",
+     "originalPrice": 499,
+     "promoPrice": 399,
+     "conditions": null
+    },
+    {
+     "product": "Barbecue plancha",
+     "brand": "Azatech",
+     "category": "electromenager",
+     "originalPrice": 599,
+     "promoPrice": 399,
+     "conditions": null
+    },
+    {
+     "product": "Micro-ondes 20L",
+     "brand": "Royal",
+     "category": "electromenager",
+     "originalPrice": 999,
+     "promoPrice": 799,
+     "conditions": null
+    },
+    {
+     "product": "Grill viande/panini",
+     "brand": "Tefal",
+     "category": "electromenager",
+     "originalPrice": 999,
+     "promoPrice": 849,
+     "conditions": null
+    },
+    {
+     "product": "Blender électrique 1,5L",
+     "brand": "Moulinex",
+     "category": "electromenager",
+     "originalPrice": 449,
+     "promoPrice": 349,
+     "conditions": null
+    },
+    {
+     "product": "Batteur électrique",
+     "brand": "Royal",
+     "category": "electromenager",
+     "originalPrice": 149,
+     "promoPrice": 79,
+     "conditions": null
+    },
+    {
+     "product": "Presse-agrumes 1L",
+     "brand": "Severin",
+     "category": "electromenager",
+     "originalPrice": 299,
+     "promoPrice": 249,
+     "conditions": null
+    },
+    {
+     "product": "Bouilloire 1,5L",
+     "brand": "Kröhler",
+     "category": "electromenager",
+     "originalPrice": 159,
+     "promoPrice": 99,
+     "conditions": null
+    },
+    {
+     "product": "Cafetière à filtre",
+     "brand": "Kröhler",
+     "category": "electromenager",
+     "originalPrice": 199,
+     "promoPrice": 129,
+     "conditions": null
+    },
+    {
+     "product": "Rasoir électrique sans fil 3 lames",
+     "brand": "Taurus",
+     "category": "electromenager",
+     "originalPrice": 499,
+     "promoPrice": 299,
+     "conditions": null
+    },
+    {
+     "product": "Sèche-cheveux + lisseur",
+     "brand": "Taurus",
+     "category": "electromenager",
+     "originalPrice": 399,
+     "promoPrice": 299,
+     "conditions": null
+    },
+    {
+     "product": "Fer à boucler",
+     "brand": "Rowenta",
+     "category": "electromenager",
+     "originalPrice": 199,
+     "promoPrice": 149,
+     "conditions": null
+    },
+    {
+     "product": "Pèse-personne",
+     "brand": "Kröhler",
+     "category": "electromenager",
+     "originalPrice": 159,
+     "promoPrice": 139,
+     "conditions": null
+    },
+    {
+     "product": "Défroisseur à vapeur portable",
+     "brand": "Kröhler",
+     "category": "electromenager",
+     "originalPrice": 349,
+     "promoPrice": 299,
+     "conditions": null
+    },
+    {
+     "product": "Fer à repasser 2200W",
+     "brand": "Kröhler",
+     "category": "electromenager",
+     "originalPrice": 299,
+     "promoPrice": 199,
+     "conditions": null
+    },
+    {
+     "product": "Fer à repasser 2400W",
+     "brand": "Severin",
+     "category": "electromenager",
+     "originalPrice": 399,
+     "promoPrice": 299,
+     "conditions": null
+    },
+    {
+     "product": "Pack aspirateur + défroisseur",
+     "brand": "Rowenta",
+     "category": "electromenager",
+     "originalPrice": 1999,
+     "promoPrice": 1199,
+     "conditions": null
+    },
+    {
+     "product": "Mini réfrigérateur KRG-93-S-G-G 93L",
+     "brand": "Kröhler",
+     "category": "electromenager",
+     "originalPrice": 2299,
+     "promoPrice": 1649,
+     "conditions": null
+    },
+    {
+     "product": "Mini réfrigérateur DF2S-15 85L",
+     "brand": "Siera",
+     "category": "electromenager",
+     "originalPrice": 2499,
+     "promoPrice": 2199,
+     "conditions": null
+    },
+    {
+     "product": "Réfrigérateur R200 200L",
+     "brand": "Royal",
+     "category": "electromenager",
+     "originalPrice": 3299,
+     "promoPrice": 2599,
+     "conditions": "Crédit gratuit 217 DH x 12 mois"
+    },
+    {
+     "product": "Réfrigérateur combiné CB410LFS 265L",
+     "brand": "Siera",
+     "category": "electromenager",
+     "originalPrice": 4599,
+     "promoPrice": 3799,
+     "conditions": "Crédit gratuit 317 DH x 12 mois"
+    },
+    {
+     "product": "Machine à laver ZWM07100S 7kg",
+     "brand": "Zenya",
+     "category": "electromenager",
+     "originalPrice": 2399,
+     "promoPrice": 1999,
+     "conditions": null
+    },
+    {
+     "product": "Machine à laver WM100-B214 10kg",
+     "brand": "Taurus",
+     "category": "electromenager",
+     "originalPrice": 4999,
+     "promoPrice": 4799,
+     "conditions": "Crédit gratuit 400 DH x 12 mois"
+    }
+   ]
+  },
+  "https://www.bim.ma#02 OCTOBRE 2026#30cd121a7e": {
+   "sourceId": "bim",
+   "store": "BIM",
+   "title": "Vendredi à partir du 02 Octobre",
+   "page": "https://www.bim.ma",
+   "file": "https://www.bim.ma/Uploads/ma/Files/30-09-2026-13-30-44-WEB%20SPOT%20BIM%2002%20OCTOBRE%202026.jpg",
+   "startDate": "2026-10-02",
+   "endDate": null,
+   "cities": null,
+   "readAt": "2026-10-02",
+   "products": [
+    {
+     "product": "Sandales élégantes pour fillettes Taille 29-35",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 99.9,
+     "promoPrice": 59.9,
+     "conditions": null
+    },
+    {
+     "product": "Sandales simples pour hommes Taille 40-45",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 49.9,
+     "promoPrice": 34.9,
+     "conditions": null
+    },
+    {
+     "product": "Sandales simples pour femmes Taille 36-41",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 49.9,
+     "promoPrice": 34.9,
+     "conditions": null
+    },
+    {
+     "product": "Pyjama robe pour femmes Taille S-M-L-XL",
+     "brand": "FLORA MODE",
+     "category": "mode",
+     "originalPrice": 69.9,
+     "promoPrice": 49.9,
+     "conditions": null
+    },
+    {
+     "product": "Haut parleur - karaoké pour enfants",
+     "brand": null,
+     "category": "high-tech",
+     "originalPrice": 119.9,
+     "promoPrice": 89.9,
+     "conditions": null
+    },
+    {
+     "product": "Kit de protection pour enfants 3 pièces",
+     "brand": null,
+     "category": "sport",
+     "originalPrice": 49.9,
+     "promoPrice": 29.9,
+     "conditions": null
+    },
+    {
+     "product": "Jouet électroménager",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 119.9,
+     "promoPrice": 79.9,
+     "conditions": null
+    },
+    {
+     "product": "Poupée abeille 36 cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 69.9,
+     "promoPrice": 49.9,
+     "conditions": null
+    },
+    {
+     "product": "Tour à empiler 9 pièces",
+     "brand": null,
+     "category": "bebe",
+     "originalPrice": 19.9,
+     "promoPrice": 14.9,
+     "conditions": null
+    },
+    {
+     "product": "Visionneuse 3D d'animaux",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 19.9,
+     "promoPrice": 14.9,
+     "conditions": null
+    }
+   ]
+  },
+  "https://www.bim.ma#06 OCTOBRE 2026#8095fff2f7": {
+   "sourceId": "bim",
+   "store": "BIM",
+   "title": "Mardi à partir du 06 Octobre",
+   "page": "https://www.bim.ma",
+   "file": "https://www.bim.ma/Uploads/ma/Files/30-09-2026-13-31-29-WEBGROUPE%20SPOT%20BIM%2006%20OCTOBRE%202026.jpg",
+   "startDate": "2026-10-06",
+   "endDate": null,
+   "cities": null,
+   "readAt": "2026-10-02",
+   "products": []
+  },
+  "https://www.bim.ma#AUTOMNE 2026#0086771d4d": {
+   "sourceId": "bim",
+   "store": "BIM",
+   "title": "L'Automne en mouvement",
+   "page": "https://www.bim.ma",
+   "file": "https://www.bim.ma/Uploads/ma/Files/30-09-2026-13-32-19-Couv%20BIM%20AUTOMNE%2020262.jpg",
+   "startDate": "2026-09-25",
+   "endDate": null,
+   "cities": null,
+   "readAt": "2026-10-02",
+   "products": [
+    {
+     "product": "Flocons d'avoine 500 g",
+     "brand": "Kelly's",
+     "category": "alimentation",
+     "originalPrice": 9.9,
+     "promoPrice": 7.9,
+     "conditions": "À partir du mardi 29 septembre"
+    }
+   ]
+  },
+  "https://www.bim.ma#25 SEPTEMBRE 2026#de7aff7512": {
+   "sourceId": "bim",
+   "store": "BIM",
+   "title": "Vendredi à partir du 25 Septembre",
+   "page": "https://www.bim.ma",
+   "file": "https://www.bim.ma/Uploads/ma/Files/30-09-2026-13-32-31-SPOT%20BIM%2025%20SEPTEMBRE%2020263.jpg",
+   "startDate": "2026-09-25",
+   "endDate": null,
+   "cities": null,
+   "readAt": "2026-10-02",
+   "products": [
+    {
+     "product": "Planche de pompes multifonctionnelle",
+     "brand": "DYNAMIC",
+     "category": "sport",
+     "originalPrice": 119.9,
+     "promoPrice": 79.9,
+     "conditions": null
+    }
+   ]
+  }
+ }
 }

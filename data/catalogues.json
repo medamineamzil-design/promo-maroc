@@ -979,7 +979,8 @@
      "promoPrice": 4799,
      "conditions": "Crédit gratuit 400 DH x 12 mois"
     }
-   ]
+   ],
+   "lastSeen": "2026-10-02"
   },
   "https://www.bim.ma#02 OCTOBRE 2026#30cd121a7e": {
    "sourceId": "bim",
@@ -1072,7 +1073,8 @@
      "promoPrice": 14.9,
      "conditions": null
     }
-   ]
+   ],
+   "lastSeen": "2026-10-02"
   },
   "https://www.bim.ma#06 OCTOBRE 2026#8095fff2f7": {
    "sourceId": "bim",
@@ -1084,7 +1086,8 @@
    "endDate": null,
    "cities": null,
    "readAt": "2026-10-02",
-   "products": []
+   "products": [],
+   "lastSeen": "2026-10-02"
   },
   "https://www.bim.ma#AUTOMNE 2026#0086771d4d": {
    "sourceId": "bim",
@@ -1105,7 +1108,8 @@
      "promoPrice": 7.9,
      "conditions": "À partir du mardi 29 septembre"
     }
-   ]
+   ],
+   "lastSeen": "2026-10-02"
   },
   "https://www.bim.ma#25 SEPTEMBRE 2026#de7aff7512": {
    "sourceId": "bim",
@@ -1126,7 +1130,8 @@
      "promoPrice": 79.9,
      "conditions": null
     }
-   ]
+   ],
+   "lastSeen": "2026-10-02"
   }
  }
 }

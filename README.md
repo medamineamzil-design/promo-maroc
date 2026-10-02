@@ -66,6 +66,8 @@ Un catalogue n'est lu qu'une fois (cache `data/catalogues.json`), au plus 6 nouv
 - Promo de boutique en ligne (sans date de fin) : retirée dès qu'elle n'est plus sur le site du vendeur
   (gardée au plus 3 jours si le site ne répond pas).
 - Promo de catalogue ou saisie à la main : retirée le lendemain de sa date de fin.
+- Dépliant sans date de fin (arrivages BIM, « jusqu'à épuisement du stock ») : affiché tant qu'il est en ligne
+  sur le site de l'enseigne, retiré à la mise à jour où il n'y est plus.
 
 ### Publication du site (GitHub Pages)
 

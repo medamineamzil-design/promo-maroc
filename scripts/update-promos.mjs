@@ -208,7 +208,9 @@ async function main() {
   const catalogues = await readFile(CATALOGUES, "utf8").then(JSON.parse).catch(() => ({ catalogues: {} }));
   const seenCat = new Set();
   for (const c of Object.values(catalogues.catalogues || {})) {
-    if (!c.startDate || !c.endDate || c.endDate < today) continue; // sans date de fin ou terminé : pas affiché
+    if (!c.startDate) continue;
+    if (c.endDate ? c.endDate < today // terminé : retiré
+      : !(c.lastSeen >= addDays(today, -KEEP_IF_SOURCE_DOWN_DAYS))) continue; // sans date de fin : seulement s'il est encore en ligne
     for (const p of c.products || []) {
       const id = "c-" + hash(`${c.store}|${p.product}|${p.promoPrice}|${c.startDate}`);
       if (seenCat.has(id)) continue;
@@ -217,9 +219,10 @@ async function main() {
         id, origin: "catalogue", sourceId: c.sourceId,
         product: p.product, brand: p.brand || "", store: c.store, city: "Tout le Maroc",
         category: p.category || guessCategory(p.product), originalPrice: p.originalPrice, promoPrice: p.promoPrice,
-        percent: percentOf(p.originalPrice, p.promoPrice), startDate: c.startDate, endDate: c.endDate,
+        percent: percentOf(p.originalPrice, p.promoPrice), startDate: c.startDate, endDate: c.endDate || null,
         url: c.file || c.page || "", image: "",
-        conditions: [c.title && `Catalogue « ${c.title} »`, c.cities && `Magasins : ${c.cities}`, p.conditions].filter(Boolean).join(" · ")
+        conditions: [c.title && `Catalogue « ${c.title} »`, c.cities && `Magasins : ${c.cities}`, p.conditions,
+          !c.endDate && "Jusqu'à épuisement du stock (pas de date de fin sur le dépliant)"].filter(Boolean).join(" · ")
       });
     }
   }

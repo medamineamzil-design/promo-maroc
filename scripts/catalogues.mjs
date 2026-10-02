@@ -83,9 +83,10 @@ async function discover(src) {
   const cfg = src.catalogue;
   const include = cfg.include ? new RegExp(cfg.include, "i") : null;
   const found = [];
+  let reachable = 0;
   for (const page of cfg.pages) {
     let html;
-    try { html = (await fetchBuf(page, "text/html")).buf.toString("utf8"); }
+    try { html = (await fetchBuf(page, "text/html")).buf.toString("utf8"); reachable++; }
     catch (e) { console.log(`   ${page} : ${e.message}`); continue; }
     const text = html.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>/gi, " ").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ");
     const hint = (text.match(/(?:du|valable)\s+\d{1,2}(?:er)?\s*(?:[\/.-]\d{1,2}|[a-zéû]+)[^.]{0,40}?(?:au|jusqu'au)\s+\d{1,2}(?:er)?\s*(?:[\/.-]\d{1,2}(?:[\/.-]\d{2,4})?|[a-zéû]+(?:\s+\d{4})?)/i) || [""])[0];
@@ -122,6 +123,7 @@ async function discover(src) {
       }
     }
   }
+  if (!reachable) throw new Error("page(s) catalogue injoignable(s)");
   return found;
 }
 
@@ -201,9 +203,17 @@ async function main() {
     console.log(`\n▶ ${src.name}`);
     let cats;
     try { cats = await discover(src); } catch (e) { console.log(`   découverte impossible : ${e.message}`); continue; }
+    // Dépliant sans date de fin (ex. arrivages BIM « jusqu'à épuisement ») : affiché tant qu'il est en ligne
+    // chez l'enseigne, retiré dès qu'il n'y est plus.
+    const online = new Set(cats.map((c) => c.key));
+    for (const [k, c] of Object.entries(cache.catalogues)) {
+      if (c.sourceId !== src.id || c.endDate) continue;
+      if (online.has(k)) c.lastSeen = today;
+      else { delete cache.catalogues[k]; console.log(`   retiré (plus en ligne) : ${c.title}`); }
+    }
     if (!cats.length) { console.log("   aucun catalogue repéré"); continue; }
     for (const cat of cats) {
-      if (cache.catalogues[cat.key]) { console.log(`   déjà lu : ${cat.key}`); continue; }
+      if (cache.catalogues[cat.key]) { cache.catalogues[cat.key].lastSeen = today; console.log(`   déjà lu : ${cat.key}`); continue; }
       if (done >= maxNew) { console.log(`   plafond de ${maxNew} catalogues atteint pour aujourd'hui`); break; }
       try {
         const { data, usage } = await extract(client, src, cat);
@@ -217,10 +227,10 @@ async function main() {
           sourceId: src.id, store: src.store || src.name, title: c.title, page: cat.page, file: cat.urls[0],
           startDate: valid.test(c.startDate || "") ? c.startDate : null,
           endDate: valid.test(c.endDate || "") ? c.endDate : null,
-          cities: c.cities, readAt: today, products: items
+          cities: c.cities, readAt: today, lastSeen: today, products: items
         };
         console.log(`   ✔ ${c.title} : ${items.length} promos, du ${c.startDate} au ${c.endDate} (${usage.input_tokens} + ${usage.output_tokens} jetons)`);
-        if (!cache.catalogues[cat.key].endDate) console.log("   ⚠ pas de date de fin imprimée : ce catalogue ne sera pas affiché");
+        if (!cache.catalogues[cat.key].endDate) console.log("   pas de date de fin imprimée : affiché tant que le dépliant est en ligne");
       } catch (e) {
         console.log(`   ✘ ${cat.key} : ${e.message}`);
       }

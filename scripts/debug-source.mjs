@@ -19,6 +19,7 @@ for (const src of sources) {
       const body = await res.text();
       console.log(`-- ${url}\n   HTTP ${res.status} → ${res.url}\n   type=${res.headers.get("content-type")} server=${res.headers.get("server")} taille=${body.length}`);
       if (url !== src.promoUrl) { console.log("   début : " + body.slice(0, 200).replace(/\s+/g, " ")); continue; }
+      if (/json/.test(res.headers.get("content-type") || "")) { console.log("   JSON : " + body.slice(0, 2500).replace(/\s+/g, " ")); continue; }
       const marks = ["product-miniature", "product-item", 'class="prd', "woocommerce", "cdn.shopify", "__NEXT_DATA__", "application/ld+json", "regular-price", "old-price", "oldPrice", "price--compare", "<del", "data-price", "prestashop", "Magento", "vtex", "salesforce", "algolia"];
       console.log("   marqueurs : " + marks.map((m) => `${m}=${body.split(m).length - 1}`).join(" "));
       console.log("   titre : " + (body.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [])[1]?.trim());
@@ -53,6 +54,12 @@ for (const src of sources) {
             for (const m of code.matchAll(/["'`](https?:\/\/[a-z0-9.-]+[^"'`\s]{0,120})["'`]/gi))
               if (!/w3\.org|reactjs|nextjs\.org|googletagmanager|google-analytics|facebook|schema\.org|github|mozilla|fonts\./i.test(m[1])) all.add(m[1]);
             for (const m of code.matchAll(/["'`](\/(?:api|graphql|wp-json|v\d)[^"'`\s]{0,100})["'`]/gi)) all.add(m[1]);
+            // Contexte autour des appels d'API (noms des collections : promotions, catalogues…)
+            for (const m of code.matchAll(/(?:\/api\/|backend\.)/g)) {
+              const ctx = code.slice(Math.max(0, m.index - 150), m.index + 250).replace(/\s+/g, " ");
+              if (/promo|catalog|offre|product|produit|flyer/i.test(ctx)) all.add("« " + ctx + " »");
+            }
+            for (const m of code.matchAll(/["'`]\/?(?:api\/)?([a-z-]*(?:promo|catalog|offre|flyer)[a-z-]*)(?:[?\/][^"'`]{0,80})?["'`]/gi)) all.add("collection? " + m[0]);
           } catch { /* script illisible */ }
         }
         console.log(`   scripts analysés : ${scripts.length}+ ; adresses trouvées : ` + ([...all].slice(0, 60).join(" | ") || "aucune"));

@@ -43,6 +43,20 @@ for (const src of sources) {
       if (nextData) console.log("   __NEXT_DATA__ : " + nextData[1].replace(/\s+/g, " "));
       const rsc = [...body.matchAll(/self\.__next_f\.push\(\[1,"([\s\S]{0,600}?)"\]\)/g)].map((m) => m[1]).filter((x) => /promo|catalog|prix|price|pdf|jpg/i.test(x)).slice(0, 6);
       if (rsc.length) console.log("   données Next.js : " + rsc.join(" || ").replace(/\s+/g, " "));
+      // Scripts du site (Next.js, React…) : on y cherche les adresses d'où viennent les données
+      if (/_next\/static|__next_f|data-reactroot|id="root"/.test(body)) {
+        const scripts = uniq([...body.matchAll(/<script[^>]*src=["']([^"']+\.js[^"']*)["']/gi)].map((m) => new URL(m[1], res.url).href)).slice(0, 15);
+        const all = new Set();
+        for (const js of [...new Set([...body.matchAll(/<script[^>]*src=["']([^"']+\.js[^"']*)["']/gi)].map((m) => new URL(m[1], res.url).href))].slice(0, 60)) {
+          try {
+            const code = await (await fetch(js, { headers: { "User-Agent": UA } })).text();
+            for (const m of code.matchAll(/["'`](https?:\/\/[a-z0-9.-]+[^"'`\s]{0,120})["'`]/gi))
+              if (!/w3\.org|reactjs|nextjs\.org|googletagmanager|google-analytics|facebook|schema\.org|github|mozilla|fonts\./i.test(m[1])) all.add(m[1]);
+            for (const m of code.matchAll(/["'`](\/(?:api|graphql|wp-json|v\d)[^"'`\s]{0,100})["'`]/gi)) all.add(m[1]);
+          } catch { /* script illisible */ }
+        }
+        console.log(`   scripts analysés : ${scripts.length}+ ; adresses trouvées : ` + ([...all].slice(0, 60).join(" | ") || "aucune"));
+      }
       const res2 = parseAnyHtml(body, src.promoUrl);
       console.log(`   analyseur : ${res2.platform} ${res2.items.length} produits`);
       const anchor = body.search(/data-testid="current-price"|regular-price/);

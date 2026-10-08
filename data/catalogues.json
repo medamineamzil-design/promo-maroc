@@ -3,13 +3,14 @@
   "https://www.aswakassalam.com/Import_catalogue/catalogue_saveurs_du_maroc2/": {
    "sourceId": "aswak-catalogue",
    "store": "Aswak Assalam",
-   "title": "منتوج بلادنا... فخر لينا ! – Made in Morocco",
+   "title": "Montoj bladna... fakhr lina ! – Made in Morocco",
    "page": "https://aswakassalam.com/catalogue/",
    "file": "https://www.aswakassalam.com/Import_catalogue/catalogue_saveurs_du_maroc2/files/mobile/1.jpg",
    "startDate": "2026-09-18",
    "endDate": "2026-10-07",
    "cities": null,
-   "readAt": "2026-10-02",
+   "readAt": "2026-10-08",
+   "lastSeen": "2026-10-08",
    "products": [
     {
      "product": "Lot de 2 thés verts 41022 en filaments 200g",
@@ -24,14 +25,6 @@
      "brand": "Al Boustane",
      "category": "boissons",
      "originalPrice": 12.5,
-     "promoPrice": 10.95,
-     "conditions": null
-    },
-    {
-     "product": "Boisson à la pulpe d'orange 1L",
-     "brand": "Cappy Pulpy",
-     "category": "boissons",
-     "originalPrice": 11.95,
      "promoPrice": 10.95,
      "conditions": null
     },
@@ -77,7 +70,7 @@
     },
     {
      "product": "Eau minérale pack de 6 bouteilles 1,5L",
-     "brand": "Ain Saïss",
+     "brand": "Ain Saiss",
      "category": "boissons",
      "originalPrice": 25,
      "promoPrice": 22.5,
@@ -85,7 +78,7 @@
     },
     {
      "product": "Eau minérale pack de 4 bouteilles 2L",
-     "brand": "Aïn Soltane",
+     "brand": "Ain Soltane",
      "category": "boissons",
      "originalPrice": 23.2,
      "promoPrice": 18.95,
@@ -105,7 +98,7 @@
      "category": "alimentation",
      "originalPrice": 158.95,
      "promoPrice": 145.95,
-     "conditions": "Gratuit : amlou 200g amande et huile d'argan"
+     "conditions": "Amlou 200g gratuit"
     },
     {
      "product": "Lot de 2 thés verts 41022 en filaments 200g",
@@ -121,18 +114,18 @@
      "category": "boissons",
      "originalPrice": 43.95,
      "promoPrice": 38.95,
-     "conditions": "Gratuit : café moulu 40g"
+     "conditions": "Café moulu 40g gratuit"
     },
     {
      "product": "Café moulu 200g",
-     "brand": "Grand Mère",
+     "brand": "Grand'Mère",
      "category": "boissons",
      "originalPrice": 42.5,
      "promoPrice": 32.95,
      "conditions": null
     },
     {
-     "product": "Préparation en poudre au cacao 250g",
+     "product": "Préparation en poudre cacao 250g",
      "brand": "Chocao Energie",
      "category": "alimentation",
      "originalPrice": 22.95,
@@ -153,11 +146,11 @@
      "category": "alimentation",
      "originalPrice": 39.95,
      "promoPrice": 35.95,
-     "conditions": "Gratuit : Nesquik 150g"
+     "conditions": "Nesquik 150g gratuit"
     },
     {
      "product": "Céréales double chocolat lait 550g",
-     "brand": "Tchico XXL Révey",
+     "brand": "Tchico XXL Rêvey",
      "category": "alimentation",
      "originalPrice": 41.95,
      "promoPrice": 38.95,
@@ -169,6 +162,14 @@
      "category": "alimentation",
      "originalPrice": 28.5,
      "promoPrice": 24.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack de 5 paquets de cookies 45g",
+     "brand": "Tobigo",
+     "category": "alimentation",
+     "originalPrice": 10.5,
+     "promoPrice": 6.95,
      "conditions": null
     },
     {
@@ -204,7 +205,7 @@
      "conditions": null
     },
     {
-     "product": "Lot amandes et cacahuètes (3x150g + 100g)",
+     "product": "Lot amandes et cacahuètes",
      "brand": "Chahda",
      "category": "alimentation",
      "originalPrice": 57.5,
@@ -284,7 +285,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 6 paquets de lait UHT entier 1L",
+     "product": "Pack de 6 lait UHT entier 1L",
      "brand": "Jibal",
      "category": "alimentation",
      "originalPrice": 65.7,
@@ -301,7 +302,7 @@
     },
     {
      "product": "Jus de fruits au lait 900ml",
-     "brand": "Chergui Fawakih",
+     "brand": "Chergui",
      "category": "boissons",
      "originalPrice": 12.95,
      "promoPrice": 10.95,
@@ -316,7 +317,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 8 pots de fromage nature 80g",
+     "product": "Pack de 8 pots de fromage 80g",
      "brand": "Perly - Jaouda",
      "category": "alimentation",
      "originalPrice": 23.95,
@@ -324,7 +325,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 16 yaourts multiarômes Jnane 110g",
+     "product": "Pack de 16 yaourts Jnane 110g",
      "brand": "Chergui",
      "category": "alimentation",
      "originalPrice": 35.95,
@@ -431,7 +432,7 @@
      "product": "Salami de bœuf 100g",
      "brand": "Dindy",
      "category": "alimentation",
-     "originalPrice": 7.95,
+     "originalPrice": 7.65,
      "promoPrice": 5.95,
      "conditions": null
     },
@@ -439,7 +440,7 @@
      "product": "Jambon de dinde fumé 100g",
      "brand": "Dindy",
      "category": "alimentation",
-     "originalPrice": 9.95,
+     "originalPrice": 9.65,
      "promoPrice": 7.95,
      "conditions": null
     },
@@ -468,7 +469,7 @@
      "conditions": null
     },
     {
-     "product": "Couches bébé Jumbo Pack diverses tailles",
+     "product": "Couches bébé Jumbo Pack",
      "brand": "Dalaa",
      "category": "bebe",
      "originalPrice": 88.95,
@@ -532,7 +533,7 @@
      "conditions": null
     },
     {
-     "product": "6 verres à thé Zmane en verre soufflé",
+     "product": "6 verres à thé Zmane",
      "brand": null,
      "category": "maison",
      "originalPrice": 69.95,
@@ -564,7 +565,7 @@
      "conditions": null
     },
     {
-     "product": "Carafe en verre avec bouchon motif zellige 1L",
+     "product": "Carafe en verre motif zellige 1L",
      "brand": null,
      "category": "maison",
      "originalPrice": 32.95,
@@ -581,7 +582,7 @@
     },
     {
      "product": "Assiette Taous 30cm",
-     "brand": null,
+     "brand": "Taous",
      "category": "maison",
      "originalPrice": 59.95,
      "promoPrice": 45.95,
@@ -604,7 +605,7 @@
      "conditions": null
     },
     {
-     "product": "Lot de 5 casseroles en inox avec manche rouge",
+     "product": "Lot de 5 casseroles en inox",
      "brand": "Elite",
      "category": "maison",
      "originalPrice": 459.95,
@@ -612,7 +613,7 @@
      "conditions": null
     },
     {
-     "product": "Lot de 3 poêles revêtement en granite 16+20+24cm",
+     "product": "Lot de 3 poêles revêtement granite",
      "brand": null,
      "category": "maison",
      "originalPrice": 179.95,
@@ -628,7 +629,7 @@
      "conditions": null
     },
     {
-     "product": "Moule à cake rectangulaire noir 31x12x7cm",
+     "product": "Moule à cake rectangulaire noir",
      "brand": null,
      "category": "maison",
      "originalPrice": 34.95,
@@ -692,6 +693,22 @@
      "conditions": null
     },
     {
+     "product": "Drap housse 90x190cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 99.9,
+     "promoPrice": 79.9,
+     "conditions": null
+    },
+    {
+     "product": "Taie d'oreiller 70x50cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 29.9,
+     "promoPrice": 25,
+     "conditions": null
+    },
+    {
      "product": "Coussin 45x45cm",
      "brand": null,
      "category": "maison",
@@ -740,6 +757,86 @@
      "conditions": null
     },
     {
+     "product": "Manique 20x20cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 19,
+     "promoPrice": 16.9,
+     "conditions": null
+    },
+    {
+     "product": "Torchon 50x60cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 19,
+     "promoPrice": 15.9,
+     "conditions": null
+    },
+    {
+     "product": "Gant de cuisine 18x30cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 29,
+     "promoPrice": 25,
+     "conditions": null
+    },
+    {
+     "product": "Sac de courses 35x50cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 29.9,
+     "promoPrice": 25,
+     "conditions": null
+    },
+    {
+     "product": "Tablier 60x74cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 49,
+     "promoPrice": 39.9,
+     "conditions": null
+    },
+    {
+     "product": "Tablier matelassé 60x74cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 79,
+     "promoPrice": 59.9,
+     "conditions": null
+    },
+    {
+     "product": "Lot de 2 serviettes 38x38cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 29.9,
+     "promoPrice": 25,
+     "conditions": null
+    },
+    {
+     "product": "Panier à pain",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 39,
+     "promoPrice": 29.9,
+     "conditions": null
+    },
+    {
+     "product": "Galette 38x38cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 39,
+     "promoPrice": 29.9,
+     "conditions": null
+    },
+    {
+     "product": "Lot de 2 rideaux 75x150cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 129,
+     "promoPrice": 119.9,
+     "conditions": null
+    },
+    {
      "product": "Torchon nid d'abeille 50x70cm",
      "brand": null,
      "category": "maison",
@@ -748,7 +845,7 @@
      "conditions": null
     },
     {
-     "product": "Lot de 2 tabliers parent et enfant",
+     "product": "Pack gant + manique assortis",
      "brand": null,
      "category": "maison",
      "originalPrice": 39.9,
@@ -756,7 +853,7 @@
      "conditions": null
     },
     {
-     "product": "Pack gant + manique assortis",
+     "product": "Lot de 2 tabliers parent et enfant",
      "brand": null,
      "category": "maison",
      "originalPrice": 39.9,
@@ -780,7 +877,7 @@
      "conditions": null
     },
     {
-     "product": "Friteuse sans huile Air Fryer 4,5x2 L",
+     "product": "Friteuse sans huile Air Fryer 4,5x2L",
      "brand": "Azatech",
      "category": "electromenager",
      "originalPrice": 1699,
@@ -804,7 +901,7 @@
      "conditions": null
     },
     {
-     "product": "Barbecue plancha",
+     "product": "Barbecue Plancha",
      "brand": "Azatech",
      "category": "electromenager",
      "originalPrice": 599,
@@ -860,7 +957,7 @@
      "conditions": null
     },
     {
-     "product": "Cafetière à filtre",
+     "product": "Cafetière à filtre 6 tasses",
      "brand": "Kröhler",
      "category": "electromenager",
      "originalPrice": 199,
@@ -868,7 +965,7 @@
      "conditions": null
     },
     {
-     "product": "Rasoir électrique sans fil 3 lames",
+     "product": "Rasoir électrique sans fil",
      "brand": "Taurus",
      "category": "electromenager",
      "originalPrice": 499,
@@ -876,7 +973,7 @@
      "conditions": null
     },
     {
-     "product": "Sèche-cheveux + lisseur",
+     "product": "Sèche cheveux + lisseur",
      "brand": "Taurus",
      "category": "electromenager",
      "originalPrice": 399,
@@ -908,6 +1005,14 @@
      "conditions": null
     },
     {
+     "product": "Pack aspirateur + défroisseur",
+     "brand": "Rowenta",
+     "category": "electromenager",
+     "originalPrice": 1999,
+     "promoPrice": 1199,
+     "conditions": null
+    },
+    {
      "product": "Fer à repasser 2200W",
      "brand": "Kröhler",
      "category": "electromenager",
@@ -921,14 +1026,6 @@
      "category": "electromenager",
      "originalPrice": 399,
      "promoPrice": 299,
-     "conditions": null
-    },
-    {
-     "product": "Pack aspirateur + défroisseur",
-     "brand": "Rowenta",
-     "category": "electromenager",
-     "originalPrice": 1999,
-     "promoPrice": 1199,
      "conditions": null
     },
     {
@@ -979,22 +1076,52 @@
      "promoPrice": 4799,
      "conditions": "Crédit gratuit 400 DH x 12 mois"
     }
-   ],
-   "lastSeen": "2026-10-07"
+   ]
   },
-  "https://www.bim.ma#02 OCTOBRE 2026#30cd121a7e": {
+  "https://www.bim.ma#09 OCTOBRE 2026#2c10816e2e": {
    "sourceId": "bim",
    "store": "BIM",
-   "title": "Vendredi à partir du 02 Octobre",
+   "title": "Vendredi à partir du 09 Octobre",
    "page": "https://www.bim.ma",
-   "file": "https://www.bim.ma/Uploads/ma/Files/30-09-2026-13-30-44-WEB%20SPOT%20BIM%2002%20OCTOBRE%202026.jpg",
+   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-33-11-SPOT%20BIM%2009%20OCTOBRE%202026.jpg",
+   "startDate": "2026-10-09",
+   "endDate": null,
+   "cities": null,
+   "readAt": "2026-10-08",
+   "lastSeen": "2026-10-08",
+   "products": [
+    {
+     "product": "Chaussure décontractée en toile pour homme (pointures 41-44)",
+     "brand": "VESTEJO",
+     "category": "mode",
+     "originalPrice": 119.9,
+     "promoPrice": 89.9,
+     "conditions": null
+    },
+    {
+     "product": "Baskets en toile à semelle haute pour femme (pointures 37-40)",
+     "brand": "VESTEJO",
+     "category": "mode",
+     "originalPrice": 119.9,
+     "promoPrice": 89.9,
+     "conditions": null
+    }
+   ]
+  },
+  "https://www.bim.ma#02 OCTOBRE 2026#f731e5f5bc": {
+   "sourceId": "bim",
+   "store": "BIM",
+   "title": "Vendredi à partir du 02 Octobre – Bil9lil… chri lktir !",
+   "page": "https://www.bim.ma",
+   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-34-36-WEB%20SPOT%20BIM%2002%20OCTOBRE%202026.jpg",
    "startDate": "2026-10-02",
    "endDate": null,
    "cities": null,
-   "readAt": "2026-10-02",
+   "readAt": "2026-10-08",
+   "lastSeen": "2026-10-08",
    "products": [
     {
-     "product": "Sandales élégantes pour fillettes Taille 29-35",
+     "product": "Sandales élégantes pour fillettes (taille 29-35)",
      "brand": null,
      "category": "mode",
      "originalPrice": 99.9,
@@ -1002,7 +1129,7 @@
      "conditions": null
     },
     {
-     "product": "Sandales simples pour hommes Taille 40-45",
+     "product": "Sandales simples pour hommes (taille 40-45)",
      "brand": null,
      "category": "mode",
      "originalPrice": 49.9,
@@ -1010,7 +1137,7 @@
      "conditions": null
     },
     {
-     "product": "Sandales simples pour femmes Taille 36-41",
+     "product": "Sandales simples pour femmes (taille 36-41)",
      "brand": null,
      "category": "mode",
      "originalPrice": 49.9,
@@ -1018,7 +1145,7 @@
      "conditions": null
     },
     {
-     "product": "Pyjama robe pour femmes Taille S-M-L-XL",
+     "product": "Pyjama robe pour femmes (S-M-L-XL)",
      "brand": "FLORA MODE",
      "category": "mode",
      "originalPrice": 69.9,
@@ -1073,65 +1200,20 @@
      "promoPrice": 14.9,
      "conditions": null
     }
-   ],
-   "lastSeen": "2026-10-07"
+   ]
   },
-  "https://www.bim.ma#06 OCTOBRE 2026#8095fff2f7": {
+  "https://www.bim.ma#06 OCTOBRE 2026#9f0da2aff1": {
    "sourceId": "bim",
    "store": "BIM",
    "title": "Mardi à partir du 06 Octobre",
    "page": "https://www.bim.ma",
-   "file": "https://www.bim.ma/Uploads/ma/Files/30-09-2026-13-31-29-WEBGROUPE%20SPOT%20BIM%2006%20OCTOBRE%202026.jpg",
+   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-35-26-WEBGROUPE%20SPOT%20BIM%2006%20OCTOBRE%202026.jpg",
    "startDate": "2026-10-06",
    "endDate": null,
    "cities": null,
-   "readAt": "2026-10-02",
-   "products": [],
-   "lastSeen": "2026-10-07"
-  },
-  "https://www.bim.ma#AUTOMNE 2026#0086771d4d": {
-   "sourceId": "bim",
-   "store": "BIM",
-   "title": "L'Automne en mouvement",
-   "page": "https://www.bim.ma",
-   "file": "https://www.bim.ma/Uploads/ma/Files/30-09-2026-13-32-19-Couv%20BIM%20AUTOMNE%2020262.jpg",
-   "startDate": "2026-09-25",
-   "endDate": null,
-   "cities": null,
-   "readAt": "2026-10-02",
-   "products": [
-    {
-     "product": "Flocons d'avoine 500 g",
-     "brand": "Kelly's",
-     "category": "alimentation",
-     "originalPrice": 9.9,
-     "promoPrice": 7.9,
-     "conditions": "À partir du mardi 29 septembre"
-    }
-   ],
-   "lastSeen": "2026-10-07"
-  },
-  "https://www.bim.ma#25 SEPTEMBRE 2026#de7aff7512": {
-   "sourceId": "bim",
-   "store": "BIM",
-   "title": "Vendredi à partir du 25 Septembre",
-   "page": "https://www.bim.ma",
-   "file": "https://www.bim.ma/Uploads/ma/Files/30-09-2026-13-32-31-SPOT%20BIM%2025%20SEPTEMBRE%2020263.jpg",
-   "startDate": "2026-09-25",
-   "endDate": null,
-   "cities": null,
-   "readAt": "2026-10-02",
-   "products": [
-    {
-     "product": "Planche de pompes multifonctionnelle",
-     "brand": "DYNAMIC",
-     "category": "sport",
-     "originalPrice": 119.9,
-     "promoPrice": 79.9,
-     "conditions": null
-    }
-   ],
-   "lastSeen": "2026-10-07"
+   "readAt": "2026-10-08",
+   "lastSeen": "2026-10-08",
+   "products": []
   }
  }
 }

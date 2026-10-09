@@ -1,16 +1,153 @@
 {
  "catalogues": {
+  "https://www.bim.ma#09 OCTOBRE 2026#2c10816e2e": {
+   "sourceId": "bim",
+   "store": "BIM",
+   "title": "Vendredi à partir du 09 Octobre",
+   "page": "https://www.bim.ma",
+   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-33-11-SPOT%20BIM%2009%20OCTOBRE%202026.jpg",
+   "startDate": "2026-10-09",
+   "endDate": null,
+   "cities": null,
+   "readAt": "2026-10-08",
+   "lastSeen": "2026-10-09",
+   "products": [
+    {
+     "product": "Chaussure décontractée en toile pour homme (pointures 41-44)",
+     "brand": "VESTEJO",
+     "category": "mode",
+     "originalPrice": 119.9,
+     "promoPrice": 89.9,
+     "conditions": null
+    },
+    {
+     "product": "Baskets en toile à semelle haute pour femme (pointures 37-40)",
+     "brand": "VESTEJO",
+     "category": "mode",
+     "originalPrice": 119.9,
+     "promoPrice": 89.9,
+     "conditions": null
+    }
+   ]
+  },
+  "https://www.bim.ma#02 OCTOBRE 2026#f731e5f5bc": {
+   "sourceId": "bim",
+   "store": "BIM",
+   "title": "Vendredi à partir du 02 Octobre – Bil9lil… chri lktir !",
+   "page": "https://www.bim.ma",
+   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-34-36-WEB%20SPOT%20BIM%2002%20OCTOBRE%202026.jpg",
+   "startDate": "2026-10-02",
+   "endDate": null,
+   "cities": null,
+   "readAt": "2026-10-08",
+   "lastSeen": "2026-10-09",
+   "products": [
+    {
+     "product": "Sandales élégantes pour fillettes (taille 29-35)",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 99.9,
+     "promoPrice": 59.9,
+     "conditions": null
+    },
+    {
+     "product": "Sandales simples pour hommes (taille 40-45)",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 49.9,
+     "promoPrice": 34.9,
+     "conditions": null
+    },
+    {
+     "product": "Sandales simples pour femmes (taille 36-41)",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 49.9,
+     "promoPrice": 34.9,
+     "conditions": null
+    },
+    {
+     "product": "Pyjama robe pour femmes (S-M-L-XL)",
+     "brand": "FLORA MODE",
+     "category": "mode",
+     "originalPrice": 69.9,
+     "promoPrice": 49.9,
+     "conditions": null
+    },
+    {
+     "product": "Haut parleur - karaoké pour enfants",
+     "brand": null,
+     "category": "high-tech",
+     "originalPrice": 119.9,
+     "promoPrice": 89.9,
+     "conditions": null
+    },
+    {
+     "product": "Kit de protection pour enfants 3 pièces",
+     "brand": null,
+     "category": "sport",
+     "originalPrice": 49.9,
+     "promoPrice": 29.9,
+     "conditions": null
+    },
+    {
+     "product": "Jouet électroménager",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 119.9,
+     "promoPrice": 79.9,
+     "conditions": null
+    },
+    {
+     "product": "Poupée abeille 36 cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 69.9,
+     "promoPrice": 49.9,
+     "conditions": null
+    },
+    {
+     "product": "Tour à empiler 9 pièces",
+     "brand": null,
+     "category": "bebe",
+     "originalPrice": 19.9,
+     "promoPrice": 14.9,
+     "conditions": null
+    },
+    {
+     "product": "Visionneuse 3D d'animaux",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 19.9,
+     "promoPrice": 14.9,
+     "conditions": null
+    }
+   ]
+  },
+  "https://www.bim.ma#06 OCTOBRE 2026#9f0da2aff1": {
+   "sourceId": "bim",
+   "store": "BIM",
+   "title": "Mardi à partir du 06 Octobre",
+   "page": "https://www.bim.ma",
+   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-35-26-WEBGROUPE%20SPOT%20BIM%2006%20OCTOBRE%202026.jpg",
+   "startDate": "2026-10-06",
+   "endDate": null,
+   "cities": null,
+   "readAt": "2026-10-08",
+   "lastSeen": "2026-10-09",
+   "products": []
+  },
   "https://www.aswakassalam.com/Import_catalogue/catalogue_saveurs_du_maroc2/": {
    "sourceId": "aswak-catalogue",
    "store": "Aswak Assalam",
-   "title": "Montoj bladna... fakhr lina ! – Made in Morocco",
+   "title": "منتوج بلادنا... فخر لينا ! – Made in Morocco",
    "page": "https://aswakassalam.com/catalogue/",
    "file": "https://www.aswakassalam.com/Import_catalogue/catalogue_saveurs_du_maroc2/files/mobile/1.jpg",
    "startDate": "2026-09-18",
    "endDate": "2026-10-07",
    "cities": null,
-   "readAt": "2026-10-08",
-   "lastSeen": "2026-10-08",
+   "readAt": "2026-10-09",
+   "lastSeen": "2026-10-09",
    "products": [
     {
      "product": "Lot de 2 thés verts 41022 en filaments 200g",
@@ -34,14 +171,6 @@
      "category": "boissons",
      "originalPrice": 5.5,
      "promoPrice": 4.75,
-     "conditions": null
-    },
-    {
-     "product": "Boisson gazeuse 25cl divers parfums",
-     "brand": "La Cigogne",
-     "category": "boissons",
-     "originalPrice": 4.5,
-     "promoPrice": 3.95,
      "conditions": null
     },
     {
@@ -70,7 +199,7 @@
     },
     {
      "product": "Eau minérale pack de 6 bouteilles 1,5L",
-     "brand": "Ain Saiss",
+     "brand": "Ain Saïss",
      "category": "boissons",
      "originalPrice": 25,
      "promoPrice": 22.5,
@@ -78,7 +207,7 @@
     },
     {
      "product": "Eau minérale pack de 4 bouteilles 2L",
-     "brand": "Ain Soltane",
+     "brand": "Aïn Soltane",
      "category": "boissons",
      "originalPrice": 23.2,
      "promoPrice": 18.95,
@@ -98,7 +227,7 @@
      "category": "alimentation",
      "originalPrice": 158.95,
      "promoPrice": 145.95,
-     "conditions": "Amlou 200g gratuit"
+     "conditions": "Gratuit: Amlou 200g amande et huile d'argan"
     },
     {
      "product": "Lot de 2 thés verts 41022 en filaments 200g",
@@ -114,7 +243,7 @@
      "category": "boissons",
      "originalPrice": 43.95,
      "promoPrice": 38.95,
-     "conditions": "Café moulu 40g gratuit"
+     "conditions": "Gratuit: café moulu 40g"
     },
     {
      "product": "Café moulu 200g",
@@ -136,7 +265,7 @@
      "product": "Lot confiture pomme 37cl + abricot 37cl",
      "brand": "El Baraka",
      "category": "alimentation",
-     "originalPrice": 20.95,
+     "originalPrice": 20.5,
      "promoPrice": 19.95,
      "conditions": "-50% sur le 2ème"
     },
@@ -146,11 +275,11 @@
      "category": "alimentation",
      "originalPrice": 39.95,
      "promoPrice": 35.95,
-     "conditions": "Nesquik 150g gratuit"
+     "conditions": "Gratuit: Nesquik 150g"
     },
     {
-     "product": "Céréales double chocolat lait 550g",
-     "brand": "Tchico XXL Rêvey",
+     "product": "Céréales double chocolat lait 550g Tchico XXL",
+     "brand": "Rêvey",
      "category": "alimentation",
      "originalPrice": 41.95,
      "promoPrice": 38.95,
@@ -205,7 +334,7 @@
      "conditions": null
     },
     {
-     "product": "Lot amandes et cacahuètes",
+     "product": "Lot amandes caramélisées et cacahuètes",
      "brand": "Chahda",
      "category": "alimentation",
      "originalPrice": 57.5,
@@ -301,7 +430,7 @@
      "conditions": null
     },
     {
-     "product": "Jus de fruits au lait 900ml",
+     "product": "Jus de fruits au lait 900ml Fawakih",
      "brand": "Chergui",
      "category": "boissons",
      "originalPrice": 12.95,
@@ -325,7 +454,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 16 yaourts Jnane 110g",
+     "product": "Pack de 16 yaourts multiarômes Jnane 110g",
      "brand": "Chergui",
      "category": "alimentation",
      "originalPrice": 35.95,
@@ -432,7 +561,7 @@
      "product": "Salami de bœuf 100g",
      "brand": "Dindy",
      "category": "alimentation",
-     "originalPrice": 7.65,
+     "originalPrice": 7.95,
      "promoPrice": 5.95,
      "conditions": null
     },
@@ -440,7 +569,7 @@
      "product": "Jambon de dinde fumé 100g",
      "brand": "Dindy",
      "category": "alimentation",
-     "originalPrice": 9.65,
+     "originalPrice": 9.95,
      "promoPrice": 7.95,
      "conditions": null
     },
@@ -533,7 +662,7 @@
      "conditions": null
     },
     {
-     "product": "6 verres à thé Zmane",
+     "product": "6 verres à thé Zmane en verre soufflé",
      "brand": null,
      "category": "maison",
      "originalPrice": 69.95,
@@ -565,7 +694,7 @@
      "conditions": null
     },
     {
-     "product": "Carafe en verre motif zellige 1L",
+     "product": "Carafe en verre avec bouchon motif zellige 1L",
      "brand": null,
      "category": "maison",
      "originalPrice": 32.95,
@@ -613,7 +742,7 @@
      "conditions": null
     },
     {
-     "product": "Lot de 3 poêles revêtement granite",
+     "product": "Lot de 3 poêles revêtement granite 16+20+24cm",
      "brand": null,
      "category": "maison",
      "originalPrice": 179.95,
@@ -629,7 +758,7 @@
      "conditions": null
     },
     {
-     "product": "Moule à cake rectangulaire noir",
+     "product": "Moule à cake rectangulaire noir 31x12x7cm",
      "brand": null,
      "category": "maison",
      "originalPrice": 34.95,
@@ -845,7 +974,7 @@
      "conditions": null
     },
     {
-     "product": "Pack gant + manique assortis",
+     "product": "Lot de 2 tabliers parent et enfant",
      "brand": null,
      "category": "maison",
      "originalPrice": 39.9,
@@ -853,7 +982,7 @@
      "conditions": null
     },
     {
-     "product": "Lot de 2 tabliers parent et enfant",
+     "product": "Pack gant + manique assortis",
      "brand": null,
      "category": "maison",
      "originalPrice": 39.9,
@@ -901,7 +1030,7 @@
      "conditions": null
     },
     {
-     "product": "Barbecue Plancha",
+     "product": "Barbecue plancha",
      "brand": "Azatech",
      "category": "electromenager",
      "originalPrice": 599,
@@ -965,7 +1094,7 @@
      "conditions": null
     },
     {
-     "product": "Rasoir électrique sans fil",
+     "product": "Rasoir électrique sans fil 3 lames",
      "brand": "Taurus",
      "category": "electromenager",
      "originalPrice": 499,
@@ -1077,143 +1206,6 @@
      "conditions": "Crédit gratuit 400 DH x 12 mois"
     }
    ]
-  },
-  "https://www.bim.ma#09 OCTOBRE 2026#2c10816e2e": {
-   "sourceId": "bim",
-   "store": "BIM",
-   "title": "Vendredi à partir du 09 Octobre",
-   "page": "https://www.bim.ma",
-   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-33-11-SPOT%20BIM%2009%20OCTOBRE%202026.jpg",
-   "startDate": "2026-10-09",
-   "endDate": null,
-   "cities": null,
-   "readAt": "2026-10-08",
-   "lastSeen": "2026-10-08",
-   "products": [
-    {
-     "product": "Chaussure décontractée en toile pour homme (pointures 41-44)",
-     "brand": "VESTEJO",
-     "category": "mode",
-     "originalPrice": 119.9,
-     "promoPrice": 89.9,
-     "conditions": null
-    },
-    {
-     "product": "Baskets en toile à semelle haute pour femme (pointures 37-40)",
-     "brand": "VESTEJO",
-     "category": "mode",
-     "originalPrice": 119.9,
-     "promoPrice": 89.9,
-     "conditions": null
-    }
-   ]
-  },
-  "https://www.bim.ma#02 OCTOBRE 2026#f731e5f5bc": {
-   "sourceId": "bim",
-   "store": "BIM",
-   "title": "Vendredi à partir du 02 Octobre – Bil9lil… chri lktir !",
-   "page": "https://www.bim.ma",
-   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-34-36-WEB%20SPOT%20BIM%2002%20OCTOBRE%202026.jpg",
-   "startDate": "2026-10-02",
-   "endDate": null,
-   "cities": null,
-   "readAt": "2026-10-08",
-   "lastSeen": "2026-10-08",
-   "products": [
-    {
-     "product": "Sandales élégantes pour fillettes (taille 29-35)",
-     "brand": null,
-     "category": "mode",
-     "originalPrice": 99.9,
-     "promoPrice": 59.9,
-     "conditions": null
-    },
-    {
-     "product": "Sandales simples pour hommes (taille 40-45)",
-     "brand": null,
-     "category": "mode",
-     "originalPrice": 49.9,
-     "promoPrice": 34.9,
-     "conditions": null
-    },
-    {
-     "product": "Sandales simples pour femmes (taille 36-41)",
-     "brand": null,
-     "category": "mode",
-     "originalPrice": 49.9,
-     "promoPrice": 34.9,
-     "conditions": null
-    },
-    {
-     "product": "Pyjama robe pour femmes (S-M-L-XL)",
-     "brand": "FLORA MODE",
-     "category": "mode",
-     "originalPrice": 69.9,
-     "promoPrice": 49.9,
-     "conditions": null
-    },
-    {
-     "product": "Haut parleur - karaoké pour enfants",
-     "brand": null,
-     "category": "high-tech",
-     "originalPrice": 119.9,
-     "promoPrice": 89.9,
-     "conditions": null
-    },
-    {
-     "product": "Kit de protection pour enfants 3 pièces",
-     "brand": null,
-     "category": "sport",
-     "originalPrice": 49.9,
-     "promoPrice": 29.9,
-     "conditions": null
-    },
-    {
-     "product": "Jouet électroménager",
-     "brand": null,
-     "category": "autre",
-     "originalPrice": 119.9,
-     "promoPrice": 79.9,
-     "conditions": null
-    },
-    {
-     "product": "Poupée abeille 36 cm",
-     "brand": null,
-     "category": "autre",
-     "originalPrice": 69.9,
-     "promoPrice": 49.9,
-     "conditions": null
-    },
-    {
-     "product": "Tour à empiler 9 pièces",
-     "brand": null,
-     "category": "bebe",
-     "originalPrice": 19.9,
-     "promoPrice": 14.9,
-     "conditions": null
-    },
-    {
-     "product": "Visionneuse 3D d'animaux",
-     "brand": null,
-     "category": "autre",
-     "originalPrice": 19.9,
-     "promoPrice": 14.9,
-     "conditions": null
-    }
-   ]
-  },
-  "https://www.bim.ma#06 OCTOBRE 2026#9f0da2aff1": {
-   "sourceId": "bim",
-   "store": "BIM",
-   "title": "Mardi à partir du 06 Octobre",
-   "page": "https://www.bim.ma",
-   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-35-26-WEBGROUPE%20SPOT%20BIM%2006%20OCTOBRE%202026.jpg",
-   "startDate": "2026-10-06",
-   "endDate": null,
-   "cities": null,
-   "readAt": "2026-10-08",
-   "lastSeen": "2026-10-08",
-   "products": []
   }
  }
 }

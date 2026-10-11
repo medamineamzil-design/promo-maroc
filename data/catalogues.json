@@ -10,7 +10,7 @@
    "endDate": null,
    "cities": null,
    "readAt": "2026-10-08",
-   "lastSeen": "2026-10-10",
+   "lastSeen": "2026-10-11",
    "products": [
     {
      "product": "Chaussure décontractée en toile pour homme (pointures 41-44)",
@@ -40,7 +40,7 @@
    "endDate": null,
    "cities": null,
    "readAt": "2026-10-08",
-   "lastSeen": "2026-10-10",
+   "lastSeen": "2026-10-11",
    "products": [
     {
      "product": "Sandales élégantes pour fillettes (taille 29-35)",
@@ -134,20 +134,20 @@
    "endDate": null,
    "cities": null,
    "readAt": "2026-10-08",
-   "lastSeen": "2026-10-10",
+   "lastSeen": "2026-10-11",
    "products": []
   },
   "https://www.aswakassalam.com/Import_catalogue/catalogue_saveurs_du_maroc2/": {
    "sourceId": "aswak-catalogue",
    "store": "Aswak Assalam",
-   "title": "منتوج بلادنا... فخر لينا ! (Produit de chez nous... notre fierté ! – Made in Morocco)",
+   "title": "منتوج بلادنا... فخر لينا ! (Made in Morocco)",
    "page": "https://aswakassalam.com/catalogue/",
    "file": "https://www.aswakassalam.com/Import_catalogue/catalogue_saveurs_du_maroc2/files/mobile/1.jpg",
    "startDate": "2026-09-18",
    "endDate": "2026-10-07",
    "cities": null,
-   "readAt": "2026-10-10",
-   "lastSeen": "2026-10-10",
+   "readAt": "2026-10-11",
+   "lastSeen": "2026-10-11",
    "products": [
     {
      "product": "Lot de 2 thés verts 41022 en filaments 200g",
@@ -162,6 +162,14 @@
      "brand": "Al Boustane",
      "category": "boissons",
      "originalPrice": 12.5,
+     "promoPrice": 10.95,
+     "conditions": null
+    },
+    {
+     "product": "Nectar ananas/mangue 1L",
+     "brand": "Plaisir Fruité - Marrakech",
+     "category": "boissons",
+     "originalPrice": 15,
      "promoPrice": 10.95,
      "conditions": null
     },
@@ -183,7 +191,7 @@
     },
     {
      "product": "Pack de 4 boissons gazeuses 1L",
-     "brand": "Coca-Cola / Coca-Cola Zero",
+     "brand": "Coca-Cola",
      "category": "boissons",
      "originalPrice": 32,
      "promoPrice": 28.95,
@@ -198,7 +206,7 @@
      "conditions": null
     },
     {
-     "product": "Eau minérale. Pack de 12 bouteilles 50cl",
+     "product": "Eau minérale pack de 12 bouteilles 50cl",
      "brand": "Sidi Ali",
      "category": "boissons",
      "originalPrice": 35.4,
@@ -206,7 +214,7 @@
      "conditions": "10 achetés = 2 gratuits"
     },
     {
-     "product": "Eau minérale. Pack de 6 bouteilles 1,5L",
+     "product": "Eau minérale pack de 6 bouteilles 1,5L",
      "brand": "Ain Saïss",
      "category": "boissons",
      "originalPrice": 25,
@@ -214,7 +222,7 @@
      "conditions": null
     },
     {
-     "product": "Eau minérale. Pack de 4 bouteilles 2L",
+     "product": "Eau minérale pack de 4 bouteilles 2L",
      "brand": "Aïn Soltane",
      "category": "boissons",
      "originalPrice": 23.2,
@@ -230,7 +238,7 @@
      "conditions": null
     },
     {
-     "product": "Pack : miel multifleurs 500g + miel de chardon 500g",
+     "product": "Pack miel multifleurs 500g + miel de chardon 500g",
      "brand": "Miel Chahda",
      "category": "alimentation",
      "originalPrice": 158.95,
@@ -243,7 +251,7 @@
      "category": "alimentation",
      "originalPrice": 40.95,
      "promoPrice": 37.95,
-     "conditions": "Verre gratuit"
+     "conditions": "Gratuit : verre"
     },
     {
      "product": "Café moulu 180g",
@@ -262,7 +270,7 @@
      "conditions": null
     },
     {
-     "product": "Préparation en poudre pour boisson instantanée au cacao 250g",
+     "product": "Préparation en poudre cacao 250g",
      "brand": "Chocao Energie",
      "category": "alimentation",
      "originalPrice": 22.95,
@@ -294,7 +302,7 @@
      "conditions": null
     },
     {
-     "product": "Pack génoise fourrée et enrobée au cacao Big M 52g x 10",
+     "product": "Pack génoise fourrée Big M 52g x 10",
      "brand": "Merendina",
      "category": "alimentation",
      "originalPrice": 28.5,
@@ -305,7 +313,7 @@
      "product": "Pack de 5 paquets de cookies 45g",
      "brand": "Tobigo",
      "category": "alimentation",
-     "originalPrice": 10.5,
+     "originalPrice": 10,
      "promoPrice": 6.95,
      "conditions": null
     },
@@ -318,7 +326,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 5 barres chocolatées ou nougat, cacahuètes et caramel 45g",
+     "product": "Pack de 5 barres chocolatées 45g",
      "brand": "Nooco",
      "category": "alimentation",
      "originalPrice": 19.95,
@@ -326,7 +334,7 @@
      "conditions": "4 achetés = 1 gratuit"
     },
     {
-     "product": "Pack 3 tablettes chocolat 85g divers parfums",
+     "product": "Pack 3 tablettes chocolat 85g",
      "brand": "Nooco",
      "category": "alimentation",
      "originalPrice": 26.95,
@@ -342,7 +350,7 @@
      "conditions": null
     },
     {
-     "product": "Lot : amandes caramélisées au sésame 150g + amandes enrobées au fromage 150g + amandes caramélisées au flocon d'avoine 150g + cacahuètes au fromage 100g",
+     "product": "Lot amandes caramélisées et cacahuètes",
      "brand": "Chahda",
      "category": "alimentation",
      "originalPrice": 57.5,
@@ -350,27 +358,11 @@
      "conditions": null
     },
     {
-     "product": "Lot de 4 crackers salés 100g",
-     "brand": "Krit - Cuétara",
-     "category": "alimentation",
-     "originalPrice": 25.95,
-     "promoPrice": 23.95,
-     "conditions": "3 achetés = 1 gratuit"
-    },
-    {
      "product": "Préparation en poudre pour mousse/glace",
      "brand": "Idéal",
      "category": "alimentation",
      "originalPrice": 14.95,
      "promoPrice": 12.95,
-     "conditions": null
-    },
-    {
-     "product": "Mélange de graines 200g",
-     "brand": "Oncle Sam",
-     "category": "alimentation",
-     "originalPrice": 31.95,
-     "promoPrice": 25.6,
      "conditions": null
     },
     {
@@ -422,7 +414,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 6 paquets de lait UHT entier 1L",
+     "product": "Pack de 6 laits UHT entier 1L",
      "brand": "Jibal",
      "category": "alimentation",
      "originalPrice": 65.7,
@@ -430,7 +422,7 @@
      "conditions": null
     },
     {
-     "product": "Boisson lactée fermentée Kéfir 430g",
+     "product": "Kéfir 430g",
      "brand": "Jibal",
      "category": "alimentation",
      "originalPrice": 9.95,
@@ -438,15 +430,15 @@
      "conditions": null
     },
     {
-     "product": "Jus de fruits au lait 900ml",
-     "brand": "Chergui Fawakih",
+     "product": "Jus de fruits au lait 900ml Fawakih",
+     "brand": "Chergui",
      "category": "boissons",
      "originalPrice": 12.95,
      "promoPrice": 10.95,
      "conditions": null
     },
     {
-     "product": "Pack de 2 yaourts Fawakih Bladi 150g divers parfums",
+     "product": "Pack de 2 yaourts Fawakih Bladi 150g",
      "brand": "Danone",
      "category": "alimentation",
      "originalPrice": 9.95,
@@ -454,7 +446,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 8 pots de fromage nature sucré/sans sucre 80g",
+     "product": "Pack de 8 pots de fromage 80g",
      "brand": "Perly - Jaouda",
      "category": "alimentation",
      "originalPrice": 23.95,
@@ -462,7 +454,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 16 yaourts multiarômes Jnane 110g",
+     "product": "Pack de 16 yaourts Jnane 110g",
      "brand": "Chergui",
      "category": "alimentation",
      "originalPrice": 35.95,
@@ -470,7 +462,7 @@
      "conditions": "12 achetés = 4 gratuits"
     },
     {
-     "product": "Raïb du bled 450g divers parfums",
+     "product": "Raïb du bled 450g",
      "brand": "Fromital",
      "category": "alimentation",
      "originalPrice": 11.2,
@@ -519,7 +511,7 @@
     },
     {
      "product": "64 portions de fromage fondu",
-     "brand": "Perly - Jaouda",
+     "brand": "Perly-Jaouda",
      "category": "alimentation",
      "originalPrice": 71.95,
      "promoPrice": 59.95,
@@ -566,22 +558,6 @@
      "conditions": null
     },
     {
-     "product": "Salami de bœuf 100g",
-     "brand": "Dindy",
-     "category": "alimentation",
-     "originalPrice": 7.65,
-     "promoPrice": 5.95,
-     "conditions": null
-    },
-    {
-     "product": "Jambon de dinde fumé 100g",
-     "brand": "Dindy",
-     "category": "alimentation",
-     "originalPrice": 9.65,
-     "promoPrice": 7.95,
-     "conditions": null
-    },
-    {
      "product": "15 sacs de congélation 30x40cm",
      "brand": "Folia",
      "category": "entretien",
@@ -606,7 +582,7 @@
      "conditions": null
     },
     {
-     "product": "Couches bébé Jumbo Pack diverses tailles",
+     "product": "Couches bébé Jumbo Pack",
      "brand": "Dalaa",
      "category": "bebe",
      "originalPrice": 88.95,
@@ -617,12 +593,12 @@
      "product": "Shampooing Hyaluron 600ml",
      "brand": "Elseve",
      "category": "hygiene",
-     "originalPrice": 79.95,
+     "originalPrice": 79.5,
      "promoPrice": 56.95,
      "conditions": null
     },
     {
-     "product": "Déodorant 200ml divers parfums",
+     "product": "Déodorant 200ml",
      "brand": "Narta",
      "category": "hygiene",
      "originalPrice": 44.5,
@@ -638,7 +614,7 @@
      "conditions": null
     },
     {
-     "product": "Gel douche 650ml divers parfums",
+     "product": "Gel douche 650ml",
      "brand": "Taous",
      "category": "hygiene",
      "originalPrice": 41.95,
@@ -654,7 +630,7 @@
      "conditions": null
     },
     {
-     "product": "Set de 4 boîtes en verre et bambou avec plateau",
+     "product": "Set de boîtes en verre et bambou avec plateau 4 pièces",
      "brand": null,
      "category": "maison",
      "originalPrice": 99.95,
@@ -678,7 +654,7 @@
      "conditions": null
     },
     {
-     "product": "6 verres à thé Zmane en verre soufflé avec motif",
+     "product": "6 verres à thé Zmane en verre soufflé",
      "brand": null,
      "category": "maison",
      "originalPrice": 69.95,
@@ -814,7 +790,7 @@
      "conditions": null
     },
     {
-     "product": "Lot de 5 casseroles en inox avec manche rouge (12,14,16,18,20cm)",
+     "product": "Lot de 5 casseroles en inox avec manche rouge",
      "brand": "Elite",
      "category": "maison",
      "originalPrice": 459.95,
@@ -822,7 +798,7 @@
      "conditions": null
     },
     {
-     "product": "Lot de 3 poêles revêtement en granite 16+20+24cm",
+     "product": "Lot de 3 poêles revêtement granite 16+20+24cm",
      "brand": null,
      "category": "maison",
      "originalPrice": 179.95,
@@ -942,7 +918,7 @@
      "conditions": null
     },
     {
-     "product": "Bouteille d'huile en verre avec bec verseur et couvercle en bois 750ml motif zellige",
+     "product": "Bouteille d'huile en verre 750ml motif zellige",
      "brand": null,
      "category": "maison",
      "originalPrice": 49.95,
@@ -1166,7 +1142,7 @@
      "conditions": null
     },
     {
-     "product": "Pack : gant + manique assortis",
+     "product": "Lot de 2 tabliers parent et enfant",
      "brand": null,
      "category": "maison",
      "originalPrice": 39.9,
@@ -1174,19 +1150,11 @@
      "conditions": null
     },
     {
-     "product": "Lot de 2 tabliers pour parent et enfant",
+     "product": "Pack gant + manique assortis",
      "brand": null,
      "category": "maison",
      "originalPrice": 39.9,
      "promoPrice": 29.9,
-     "conditions": null
-    },
-    {
-     "product": "Serviette 30x30cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 11.9,
-     "promoPrice": 9.9,
      "conditions": null
     },
     {
@@ -1238,7 +1206,7 @@
      "conditions": null
     },
     {
-     "product": "Friteuse sans huile Air Fryer 4,5x2 L",
+     "product": "Friteuse sans huile Air Fryer 4,5x2L",
      "brand": "Azatech",
      "category": "electromenager",
      "originalPrice": 1699,
@@ -1366,7 +1334,7 @@
      "conditions": null
     },
     {
-     "product": "Pack : aspirateur + défroisseur",
+     "product": "Pack aspirateur + défroisseur",
      "brand": "Rowenta",
      "category": "electromenager",
      "originalPrice": 1999,

@@ -10,7 +10,7 @@
    "endDate": null,
    "cities": null,
    "readAt": "2026-10-08",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "products": [
     {
      "product": "Chaussure décontractée en toile pour homme (pointures 41-44)",
@@ -40,7 +40,7 @@
    "endDate": null,
    "cities": null,
    "readAt": "2026-10-08",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "products": [
     {
      "product": "Sandales élégantes pour fillettes (taille 29-35)",
@@ -134,20 +134,20 @@
    "endDate": null,
    "cities": null,
    "readAt": "2026-10-08",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "products": []
   },
   "https://www.aswakassalam.com/Import_catalogue/catalogue_saveurs_du_maroc2/": {
    "sourceId": "aswak-catalogue",
    "store": "Aswak Assalam",
-   "title": "منتوج بلادنا... فخر لينا ! (Made in Morocco)",
+   "title": "Menتوج بلادنا... فخر لينا ! – Made in Morocco",
    "page": "https://aswakassalam.com/catalogue/",
    "file": "https://www.aswakassalam.com/Import_catalogue/catalogue_saveurs_du_maroc2/files/mobile/1.jpg",
    "startDate": "2026-09-18",
    "endDate": "2026-10-07",
    "cities": null,
-   "readAt": "2026-10-11",
-   "lastSeen": "2026-10-11",
+   "readAt": "2026-10-12",
+   "lastSeen": "2026-10-12",
    "products": [
     {
      "product": "Lot de 2 thés verts 41022 en filaments 200g",
@@ -166,10 +166,10 @@
      "conditions": null
     },
     {
-     "product": "Nectar ananas/mangue 1L",
-     "brand": "Plaisir Fruité - Marrakech",
+     "product": "Boisson à la pulpe d'orange 1L",
+     "brand": "Cappy Pulpy",
      "category": "boissons",
-     "originalPrice": 15,
+     "originalPrice": 11.95,
      "promoPrice": 10.95,
      "conditions": null
     },
@@ -179,14 +179,6 @@
      "category": "boissons",
      "originalPrice": 5.5,
      "promoPrice": 4.75,
-     "conditions": null
-    },
-    {
-     "product": "Boisson gazeuse 25cl divers parfums",
-     "brand": "La Cigogne",
-     "category": "boissons",
-     "originalPrice": 4.5,
-     "promoPrice": 3.95,
      "conditions": null
     },
     {
@@ -206,7 +198,7 @@
      "conditions": null
     },
     {
-     "product": "Eau minérale pack de 12 bouteilles 50cl",
+     "product": "Eau minérale. Pack de 12 bouteilles 50cl",
      "brand": "Sidi Ali",
      "category": "boissons",
      "originalPrice": 35.4,
@@ -214,7 +206,7 @@
      "conditions": "10 achetés = 2 gratuits"
     },
     {
-     "product": "Eau minérale pack de 6 bouteilles 1,5L",
+     "product": "Eau minérale. Pack de 6 bouteilles 1,5L",
      "brand": "Ain Saïss",
      "category": "boissons",
      "originalPrice": 25,
@@ -222,7 +214,7 @@
      "conditions": null
     },
     {
-     "product": "Eau minérale pack de 4 bouteilles 2L",
+     "product": "Eau minérale. Pack de 4 bouteilles 2L",
      "brand": "Aïn Soltane",
      "category": "boissons",
      "originalPrice": 23.2,
@@ -238,7 +230,7 @@
      "conditions": null
     },
     {
-     "product": "Pack miel multifleurs 500g + miel de chardon 500g",
+     "product": "Pack : miel multifleurs 500g + miel de chardon 500g",
      "brand": "Miel Chahda",
      "category": "alimentation",
      "originalPrice": 158.95,
@@ -263,14 +255,14 @@
     },
     {
      "product": "Café moulu 200g",
-     "brand": "Grand'Mère",
+     "brand": "Grand Mère",
      "category": "alimentation",
      "originalPrice": 42.5,
      "promoPrice": 32.95,
      "conditions": null
     },
     {
-     "product": "Préparation en poudre cacao 250g",
+     "product": "Préparation en poudre pour boisson instantanée au cacao 250g",
      "brand": "Chocao Energie",
      "category": "alimentation",
      "originalPrice": 22.95,
@@ -302,7 +294,7 @@
      "conditions": null
     },
     {
-     "product": "Pack génoise fourrée Big M 52g x 10",
+     "product": "Pack génoise fourrée et enrobée au cacao Big M 52g x 10",
      "brand": "Merendina",
      "category": "alimentation",
      "originalPrice": 28.5,
@@ -313,7 +305,7 @@
      "product": "Pack de 5 paquets de cookies 45g",
      "brand": "Tobigo",
      "category": "alimentation",
-     "originalPrice": 10,
+     "originalPrice": 10.5,
      "promoPrice": 6.95,
      "conditions": null
     },
@@ -326,7 +318,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 5 barres chocolatées 45g",
+     "product": "Pack de 5 barres chocolatées ou nougat, cacahuètes et caramel 45g",
      "brand": "Nooco",
      "category": "alimentation",
      "originalPrice": 19.95,
@@ -334,7 +326,7 @@
      "conditions": "4 achetés = 1 gratuit"
     },
     {
-     "product": "Pack 3 tablettes chocolat 85g",
+     "product": "Pack 3 tablettes chocolat 85g divers parfums",
      "brand": "Nooco",
      "category": "alimentation",
      "originalPrice": 26.95,
@@ -350,7 +342,7 @@
      "conditions": null
     },
     {
-     "product": "Lot amandes caramélisées et cacahuètes",
+     "product": "Lot : amandes caramélisées et enrobées 3x150g + cacahuètes au fromage 100g",
      "brand": "Chahda",
      "category": "alimentation",
      "originalPrice": 57.5,
@@ -358,11 +350,27 @@
      "conditions": null
     },
     {
+     "product": "Lot de 4 crackers salés 100g",
+     "brand": "Krit - Cuétara",
+     "category": "alimentation",
+     "originalPrice": 25.95,
+     "promoPrice": 23.95,
+     "conditions": "3 achetés = 1 gratuit"
+    },
+    {
      "product": "Préparation en poudre pour mousse/glace",
      "brand": "Idéal",
      "category": "alimentation",
      "originalPrice": 14.95,
      "promoPrice": 12.95,
+     "conditions": null
+    },
+    {
+     "product": "Mélange de graines 200g",
+     "brand": "Oncle Sam",
+     "category": "alimentation",
+     "originalPrice": 31.95,
+     "promoPrice": 25.6,
      "conditions": null
     },
     {
@@ -414,7 +422,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 6 laits UHT entier 1L",
+     "product": "Pack de 6 paquets de lait UHT entier 1L",
      "brand": "Jibal",
      "category": "alimentation",
      "originalPrice": 65.7,
@@ -422,7 +430,7 @@
      "conditions": null
     },
     {
-     "product": "Kéfir 430g",
+     "product": "Boisson lactée fermentée Kéfir 430g",
      "brand": "Jibal",
      "category": "alimentation",
      "originalPrice": 9.95,
@@ -446,7 +454,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 8 pots de fromage 80g",
+     "product": "Pack de 8 pots de fromage nature sucré/sans sucre 80g",
      "brand": "Perly - Jaouda",
      "category": "alimentation",
      "originalPrice": 23.95,
@@ -454,7 +462,7 @@
      "conditions": null
     },
     {
-     "product": "Pack de 16 yaourts Jnane 110g",
+     "product": "Pack de 16 yaourts multiarômes Jnane 110g",
      "brand": "Chergui",
      "category": "alimentation",
      "originalPrice": 35.95,
@@ -462,7 +470,7 @@
      "conditions": "12 achetés = 4 gratuits"
     },
     {
-     "product": "Raïb du bled 450g",
+     "product": "Raïb du bled 450g divers parfums",
      "brand": "Fromital",
      "category": "alimentation",
      "originalPrice": 11.2,
@@ -582,7 +590,7 @@
      "conditions": null
     },
     {
-     "product": "Couches bébé Jumbo Pack",
+     "product": "Couches bébé Jumbo Pack diverses tailles",
      "brand": "Dalaa",
      "category": "bebe",
      "originalPrice": 88.95,
@@ -598,7 +606,7 @@
      "conditions": null
     },
     {
-     "product": "Déodorant 200ml",
+     "product": "Déodorant 200ml divers parfums",
      "brand": "Narta",
      "category": "hygiene",
      "originalPrice": 44.5,
@@ -614,7 +622,7 @@
      "conditions": null
     },
     {
-     "product": "Gel douche 650ml",
+     "product": "Gel douche 650ml divers parfums",
      "brand": "Taous",
      "category": "hygiene",
      "originalPrice": 41.95,
@@ -627,14 +635,6 @@
      "category": "maison",
      "originalPrice": 49.95,
      "promoPrice": 39.95,
-     "conditions": null
-    },
-    {
-     "product": "Set de boîtes en verre et bambou avec plateau 4 pièces",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 99.95,
-     "promoPrice": 85.95,
      "conditions": null
     },
     {
@@ -654,7 +654,7 @@
      "conditions": null
     },
     {
-     "product": "6 verres à thé Zmane en verre soufflé",
+     "product": "6 verres à thé Zmane en verre soufflé avec motif",
      "brand": null,
      "category": "maison",
      "originalPrice": 69.95,
@@ -686,30 +686,6 @@
      "conditions": null
     },
     {
-     "product": "Théière en inox motif zellige 1,2L",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 169.95,
-     "promoPrice": 109.95,
-     "conditions": null
-    },
-    {
-     "product": "Théière en inox motif zellige 1,6L",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 189.95,
-     "promoPrice": 129.95,
-     "conditions": null
-    },
-    {
-     "product": "Théière en inox motif zellige 2L",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 209.95,
-     "promoPrice": 139.95,
-     "conditions": null
-    },
-    {
      "product": "Carafe en verre avec bouchon motif zellige 1L",
      "brand": null,
      "category": "maison",
@@ -726,43 +702,11 @@
      "conditions": null
     },
     {
-     "product": "Assiette en émail motif zellige 36cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 69.95,
-     "promoPrice": 59.95,
-     "conditions": null
-    },
-    {
      "product": "Assiette Taous 30cm",
-     "brand": "Taous",
+     "brand": null,
      "category": "maison",
      "originalPrice": 59.95,
      "promoPrice": 45.95,
-     "conditions": null
-    },
-    {
-     "product": "Assiette Taous 36cm",
-     "brand": "Taous",
-     "category": "maison",
-     "originalPrice": 84.95,
-     "promoPrice": 64.95,
-     "conditions": null
-    },
-    {
-     "product": "Assiette Taous 40cm",
-     "brand": "Taous",
-     "category": "maison",
-     "originalPrice": 129.95,
-     "promoPrice": 99.95,
-     "conditions": null
-    },
-    {
-     "product": "Assiette Taous 45cm",
-     "brand": "Taous",
-     "category": "maison",
-     "originalPrice": 169.95,
-     "promoPrice": 149.95,
      "conditions": null
     },
     {
@@ -782,15 +726,7 @@
      "conditions": null
     },
     {
-     "product": "Couscoussier en inox 12L",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 399.95,
-     "promoPrice": 349.95,
-     "conditions": null
-    },
-    {
-     "product": "Lot de 5 casseroles en inox avec manche rouge",
+     "product": "Lot de 5 casseroles en inox avec manche rouge (12,14,16,18,20cm)",
      "brand": "Elite",
      "category": "maison",
      "originalPrice": 459.95,
@@ -798,7 +734,7 @@
      "conditions": null
     },
     {
-     "product": "Lot de 3 poêles revêtement granite 16+20+24cm",
+     "product": "Lot de 3 poêles revêtement en granite 16+20+24cm",
      "brand": null,
      "category": "maison",
      "originalPrice": 179.95,
@@ -814,14 +750,6 @@
      "conditions": null
     },
     {
-     "product": "Tajine en terre cuite 30cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 59.95,
-     "promoPrice": 49.95,
-     "conditions": null
-    },
-    {
      "product": "Moule à cake rectangulaire noir 31x12x7cm",
      "brand": null,
      "category": "maison",
@@ -830,35 +758,11 @@
      "conditions": null
     },
     {
-     "product": "Moule à cake rond 25xh10cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 69.95,
-     "promoPrice": 42.95,
-     "conditions": null
-    },
-    {
      "product": "Boîte de conservation 680ml",
      "brand": null,
      "category": "maison",
      "originalPrice": 10.95,
      "promoPrice": 6.95,
-     "conditions": null
-    },
-    {
-     "product": "Boîte de conservation 1,25L",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 12.95,
-     "promoPrice": 9.95,
-     "conditions": null
-    },
-    {
-     "product": "Boîte de conservation 1,85L",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 16.95,
-     "promoPrice": 13.95,
      "conditions": null
     },
     {
@@ -878,22 +782,6 @@
      "conditions": null
     },
     {
-     "product": "Boîte de conservation en verre 660ml",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 12.95,
-     "promoPrice": 10.95,
-     "conditions": null
-    },
-    {
-     "product": "Boîte de conservation en verre 1L",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 16.95,
-     "promoPrice": 12.95,
-     "conditions": null
-    },
-    {
      "product": "Organisateur extensible 12,5x9x7cm",
      "brand": null,
      "category": "maison",
@@ -902,23 +790,7 @@
      "conditions": null
     },
     {
-     "product": "Organisateur extensible 25x9x7cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 12.95,
-     "promoPrice": 8.95,
-     "conditions": null
-    },
-    {
-     "product": "Organisateur extensible 25x18x7cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 17.95,
-     "promoPrice": 12.95,
-     "conditions": null
-    },
-    {
-     "product": "Bouteille d'huile en verre 750ml motif zellige",
+     "product": "Bouteille d'huile en verre avec bec verseur et couvercle en bois 750ml motif zellige",
      "brand": null,
      "category": "maison",
      "originalPrice": 49.95,
@@ -942,43 +814,11 @@
      "conditions": null
     },
     {
-     "product": "Drap plat cotonelle 240x270cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 129.9,
-     "promoPrice": 109.9,
-     "conditions": null
-    },
-    {
      "product": "Drap housse 90x190cm",
      "brand": null,
      "category": "maison",
      "originalPrice": 99.9,
      "promoPrice": 79.9,
-     "conditions": null
-    },
-    {
-     "product": "Drap housse 140x190cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 119.9,
-     "promoPrice": 95,
-     "conditions": null
-    },
-    {
-     "product": "Drap housse 160x200cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 129.9,
-     "promoPrice": 109.9,
-     "conditions": null
-    },
-    {
-     "product": "Drap housse 180x200cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 149.9,
-     "promoPrice": 119.9,
      "conditions": null
     },
     {
@@ -1014,27 +854,11 @@
      "conditions": null
     },
     {
-     "product": "Tapis Shahrazad 80x150cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 209.9,
-     "promoPrice": 179.9,
-     "conditions": null
-    },
-    {
      "product": "Tapis Louka 67x120cm",
      "brand": null,
      "category": "maison",
      "originalPrice": 139.9,
      "promoPrice": 109.9,
-     "conditions": null
-    },
-    {
-     "product": "Tapis Louka 80x150cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 199.9,
-     "promoPrice": 159.9,
      "conditions": null
     },
     {
@@ -1142,7 +966,7 @@
      "conditions": null
     },
     {
-     "product": "Lot de 2 tabliers parent et enfant",
+     "product": "Lot de 2 tabliers pour parent et enfant",
      "brand": null,
      "category": "maison",
      "originalPrice": 39.9,
@@ -1150,7 +974,7 @@
      "conditions": null
     },
     {
-     "product": "Pack gant + manique assortis",
+     "product": "Pack : gant + manique assortis",
      "brand": null,
      "category": "maison",
      "originalPrice": 39.9,
@@ -1158,47 +982,15 @@
      "conditions": null
     },
     {
-     "product": "Serviette 30x50cm",
+     "product": "Serviette 30x30cm",
      "brand": null,
      "category": "maison",
-     "originalPrice": 16.9,
-     "promoPrice": 14.9,
+     "originalPrice": 11.95,
+     "promoPrice": 9.9,
      "conditions": null
     },
     {
-     "product": "Serviette 38x70cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 29.9,
-     "promoPrice": 25,
-     "conditions": null
-    },
-    {
-     "product": "Serviette 50x90cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 39.9,
-     "promoPrice": 35,
-     "conditions": null
-    },
-    {
-     "product": "Serviette 70x140cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 85,
-     "promoPrice": 69.9,
-     "conditions": null
-    },
-    {
-     "product": "Serviette 100x150cm",
-     "brand": null,
-     "category": "maison",
-     "originalPrice": 125,
-     "promoPrice": 109.9,
-     "conditions": null
-    },
-    {
-     "product": "Peignoir pour adulte",
+     "product": "Peignoir pour adulte divers modèles",
      "brand": null,
      "category": "maison",
      "originalPrice": 389.9,
@@ -1302,7 +1094,7 @@
      "conditions": null
     },
     {
-     "product": "Sèche-cheveux + lisseur",
+     "product": "Sèche cheveux + lisseur",
      "brand": "Taurus",
      "category": "electromenager",
      "originalPrice": 399,
@@ -1334,7 +1126,7 @@
      "conditions": null
     },
     {
-     "product": "Pack aspirateur + défroisseur",
+     "product": "Pack : aspirateur + défroisseur",
      "brand": "Rowenta",
      "category": "electromenager",
      "originalPrice": 1999,
@@ -1350,7 +1142,7 @@
      "conditions": null
     },
     {
-     "product": "Fer à repasser 2400W",
+     "product": "Fer à repasser",
      "brand": "Severin",
      "category": "electromenager",
      "originalPrice": 399,

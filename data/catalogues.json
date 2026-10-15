@@ -10,7 +10,7 @@
    "endDate": null,
    "cities": null,
    "readAt": "2026-10-08",
-   "lastSeen": "2026-10-14",
+   "lastSeen": "2026-10-15",
    "products": [
     {
      "product": "Chaussure décontractée en toile pour homme (pointures 41-44)",
@@ -40,7 +40,7 @@
    "endDate": null,
    "cities": null,
    "readAt": "2026-10-08",
-   "lastSeen": "2026-10-14",
+   "lastSeen": "2026-10-15",
    "products": [
     {
      "product": "Sandales élégantes pour fillettes (taille 29-35)",
@@ -134,7 +134,7 @@
    "endDate": null,
    "cities": null,
    "readAt": "2026-10-08",
-   "lastSeen": "2026-10-14",
+   "lastSeen": "2026-10-15",
    "products": []
   },
   "https://www.aswakassalam.com/Import_catalogue/catalogue_braderie/": {
@@ -1327,6 +1327,1228 @@
     },
     {
      "product": "Chauffe-eau à gaz JSD12-6C/JSD12-6A 6L",
+     "brand": "Siera",
+     "category": "electromenager",
+     "originalPrice": 1199,
+     "promoPrice": 1149,
+     "conditions": null
+    }
+   ]
+  },
+  "https://www.aswakassalam.com/Import_catalogue/catalogue_braderie3/": {
+   "sourceId": "aswak-catalogue",
+   "store": "Aswak Assalam",
+   "title": "La Grande Braderie",
+   "page": "https://aswakassalam.com/catalogue/",
+   "file": "https://www.aswakassalam.com/Import_catalogue/catalogue_braderie3/files/mobile/1.jpg",
+   "startDate": "2026-10-14",
+   "endDate": "2026-11-01",
+   "cities": null,
+   "readAt": "2026-10-15",
+   "lastSeen": "2026-10-15",
+   "products": [
+    {
+     "product": "Service à soupe en porcelaine 15 pièces, divers modèles",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 299.95,
+     "promoPrice": 169.95,
+     "conditions": null
+    },
+    {
+     "product": "Soupière beldi 4L avec 6 bols",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 159.95,
+     "promoPrice": 99.95,
+     "conditions": null
+    },
+    {
+     "product": "Assiette plate 21cm vaisselle en porcelaine dorée et rouge",
+     "brand": "SAHRA",
+     "category": "maison",
+     "originalPrice": 34.95,
+     "promoPrice": 19.95,
+     "conditions": null
+    },
+    {
+     "product": "Bol 15cm porcelaine dorée et rouge",
+     "brand": "SAHRA",
+     "category": "maison",
+     "originalPrice": 29.95,
+     "promoPrice": 17.95,
+     "conditions": null
+    },
+    {
+     "product": "Bol saladier 28cm porcelaine dorée et rouge",
+     "brand": "SAHRA",
+     "category": "maison",
+     "originalPrice": 89.95,
+     "promoPrice": 54.95,
+     "conditions": null
+    },
+    {
+     "product": "Assiette creuse 30cm porcelaine dorée et rouge",
+     "brand": "SAHRA",
+     "category": "maison",
+     "originalPrice": 69.95,
+     "promoPrice": 45.95,
+     "conditions": null
+    },
+    {
+     "product": "Assiette plate 32cm porcelaine dorée et rouge",
+     "brand": "SAHRA",
+     "category": "maison",
+     "originalPrice": 74.95,
+     "promoPrice": 49.95,
+     "conditions": null
+    },
+    {
+     "product": "Assiette à rebord 32cm porcelaine dorée et rouge",
+     "brand": "SAHRA",
+     "category": "maison",
+     "originalPrice": 89.95,
+     "promoPrice": 49.95,
+     "conditions": null
+    },
+    {
+     "product": "Assiette plate en porcelaine 15cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 14.95,
+     "promoPrice": 8.95,
+     "conditions": null
+    },
+    {
+     "product": "Assiette 7,5cm porcelaine",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 16.95,
+     "promoPrice": 10.95,
+     "conditions": null
+    },
+    {
+     "product": "Bol porcelaine",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 15.95,
+     "promoPrice": 10.95,
+     "conditions": null
+    },
+    {
+     "product": "Plat rond 20cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 29.95,
+     "promoPrice": 13.95,
+     "conditions": null
+    },
+    {
+     "product": "Saladier décoré 13cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 29.95,
+     "promoPrice": 8.95,
+     "conditions": null
+    },
+    {
+     "product": "Bol divers modèles et tailles",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 9.95,
+     "promoPrice": 3.95,
+     "conditions": null
+    },
+    {
+     "product": "Assiette 10cm vaisselle en poterie",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 19.95,
+     "promoPrice": 11.95,
+     "conditions": null
+    },
+    {
+     "product": "Assiette 13cm vaisselle en poterie",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 24.95,
+     "promoPrice": 15.95,
+     "conditions": null
+    },
+    {
+     "product": "Bol 12cm vaisselle en poterie",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 24.95,
+     "promoPrice": 13.95,
+     "conditions": null
+    },
+    {
+     "product": "Planche de présentation 29x12cm divers modèles",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 49.95,
+     "promoPrice": 22.95,
+     "conditions": null
+    },
+    {
+     "product": "Lot de 6 verres à jus Valentino 290ml",
+     "brand": "LUXUS",
+     "category": "maison",
+     "originalPrice": 114.95,
+     "promoPrice": 49.95,
+     "conditions": null
+    },
+    {
+     "product": "Carafe en verre 2L",
+     "brand": "LIVORNO",
+     "category": "maison",
+     "originalPrice": 74.95,
+     "promoPrice": 29.95,
+     "conditions": null
+    },
+    {
+     "product": "Set de 2 ramequins avec planche en bois",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 59.95,
+     "promoPrice": 35.95,
+     "conditions": null
+    },
+    {
+     "product": "Set de 4 ramequins avec planche en bois",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 119.95,
+     "promoPrice": 69.95,
+     "conditions": null
+    },
+    {
+     "product": "Assiette de service en plastique 18cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 4.95,
+     "promoPrice": 2.95,
+     "conditions": null
+    },
+    {
+     "product": "Boîte de conservation hermétique en plastique 1L",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 19.95,
+     "promoPrice": 13.95,
+     "conditions": null
+    },
+    {
+     "product": "Boîte de conservation hermétique en plastique 1,5L",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 24.95,
+     "promoPrice": 16.95,
+     "conditions": null
+    },
+    {
+     "product": "Lot de 6 verres à thé 194ml",
+     "brand": "ATLAS",
+     "category": "maison",
+     "originalPrice": 19.95,
+     "promoPrice": 14.95,
+     "conditions": null
+    },
+    {
+     "product": "Set de 3 ustensiles de cuisson : marmite + poêle + casserole 14cm revêtement granite",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 199.95,
+     "promoPrice": 59.95,
+     "conditions": null
+    },
+    {
+     "product": "Plat à four rectangulaire en fonte 26x39cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 299.95,
+     "promoPrice": 89.95,
+     "conditions": null
+    },
+    {
+     "product": "Marmite en verre avec couvercle 1,6L",
+     "brand": "ATLAS",
+     "category": "maison",
+     "originalPrice": 69.95,
+     "promoPrice": 39.95,
+     "conditions": null
+    },
+    {
+     "product": "Lot de 2 plats à four carrés 24x24cm + 30x30cm",
+     "brand": "BORART",
+     "category": "maison",
+     "originalPrice": 79.95,
+     "promoPrice": 54.95,
+     "conditions": null
+    },
+    {
+     "product": "Moule à gâteau 23x9cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 44.95,
+     "promoPrice": 29.95,
+     "conditions": null
+    },
+    {
+     "product": "Planche à découper 23x16cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 24.95,
+     "promoPrice": 16.95,
+     "conditions": null
+    },
+    {
+     "product": "Moulin à poivre",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 45.95,
+     "promoPrice": 29.95,
+     "conditions": null
+    },
+    {
+     "product": "Entonnoir",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 7.95,
+     "promoPrice": 3.95,
+     "conditions": null
+    },
+    {
+     "product": "Passoire pliable 23cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 24.95,
+     "promoPrice": 15.95,
+     "conditions": null
+    },
+    {
+     "product": "Pack étendoir à linge métallique + table à repasser",
+     "brand": "ATLAS",
+     "category": "maison",
+     "originalPrice": 329.95,
+     "promoPrice": 199.95,
+     "conditions": null
+    },
+    {
+     "product": "Meuble de rangement 4 tiroirs, divers motifs",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 279.95,
+     "promoPrice": 159.95,
+     "conditions": null
+    },
+    {
+     "product": "Coffre à linge 45L divers modèles",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 99.95,
+     "promoPrice": 59.95,
+     "conditions": null
+    },
+    {
+     "product": "Étagère à chaussures 5 niveaux 25x28x80cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 109.95,
+     "promoPrice": 69.95,
+     "conditions": null
+    },
+    {
+     "product": "Chariot de courses 30L divers modèles",
+     "brand": "ATLAS",
+     "category": "maison",
+     "originalPrice": 129.95,
+     "promoPrice": 89.95,
+     "conditions": null
+    },
+    {
+     "product": "Chariot de courses pour enfant avec accessoires 36x27cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 99.95,
+     "promoPrice": 59.95,
+     "conditions": null
+    },
+    {
+     "product": "Jeux scientifiques : Corps humain Peppa Pig, Antivirus Lab, Science explosive, Science dégoûtante",
+     "brand": "SCIENCE4YOU",
+     "category": "autre",
+     "originalPrice": 299.95,
+     "promoPrice": 89.95,
+     "conditions": null
+    },
+    {
+     "product": "Machine à coudre pour enfant avec accessoires 19x27cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 99.95,
+     "promoPrice": 69.95,
+     "conditions": null
+    },
+    {
+     "product": "Coffret de création de bijoux & accessoires 37x49cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 119.95,
+     "promoPrice": 89.95,
+     "conditions": null
+    },
+    {
+     "product": "Poupée 38x32cm avec accessoires de mode",
+     "brand": "SUNSHINE GIRLS",
+     "category": "autre",
+     "originalPrice": 89.95,
+     "promoPrice": 49.95,
+     "conditions": null
+    },
+    {
+     "product": "Tête à coiffer avec accessoires 20x35cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 119.95,
+     "promoPrice": 79.95,
+     "conditions": null
+    },
+    {
+     "product": "Coffret de police 5 véhicules et accessoires 42x28cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 99.95,
+     "promoPrice": 69.95,
+     "conditions": null
+    },
+    {
+     "product": "Robot de combat lanceur de projectiles 22x29cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 119.95,
+     "promoPrice": 79.95,
+     "conditions": null
+    },
+    {
+     "product": "Voiture télécommandée avec volant échelle 1:16 39x29cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 149.95,
+     "promoPrice": 99.95,
+     "conditions": null
+    },
+    {
+     "product": "Avion de chasse télécommandé avec effets lumineux 23x31cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 89.95,
+     "promoPrice": 59.95,
+     "conditions": null
+    },
+    {
+     "product": "Camion porte-voitures avec lanceur et 5 voitures 26x36cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 119.95,
+     "promoPrice": 79.95,
+     "conditions": null
+    },
+    {
+     "product": "Table de billard pour enfant 38x29cm",
+     "brand": null,
+     "category": "autre",
+     "originalPrice": 69.95,
+     "promoPrice": 39.95,
+     "conditions": null
+    },
+    {
+     "product": "Trampoline de fitness avec barre de maintien 102x135cm",
+     "brand": "BESTWAY",
+     "category": "sport",
+     "originalPrice": 1199.95,
+     "promoPrice": 599.95,
+     "conditions": null
+    },
+    {
+     "product": "Sac à dos de sport gris/kaki/bleu",
+     "brand": null,
+     "category": "sport",
+     "originalPrice": 69.95,
+     "promoPrice": 19.95,
+     "conditions": null
+    },
+    {
+     "product": "Transat en plastique 70x192x42cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 499.95,
+     "promoPrice": 299.95,
+     "conditions": null
+    },
+    {
+     "product": "Table pliante 120x74cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 899.95,
+     "promoPrice": 699.95,
+     "conditions": null
+    },
+    {
+     "product": "Table pliante 150x74cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 1199.95,
+     "promoPrice": 999.95,
+     "conditions": null
+    },
+    {
+     "product": "Table pliante rectangulaire 180x70x74cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 599.95,
+     "promoPrice": 449.95,
+     "conditions": null
+    },
+    {
+     "product": "Table pliante 50x33x76cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 349.95,
+     "promoPrice": 249.95,
+     "conditions": null
+    },
+    {
+     "product": "Table pliante en aluminium 80x60x70cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 249.95,
+     "promoPrice": 149.95,
+     "conditions": null
+    },
+    {
+     "product": "Coffre-fort à code avec clés 23x17x17cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 299.95,
+     "promoPrice": 229.95,
+     "conditions": null
+    },
+    {
+     "product": "Trolley souple 46x35x20cm manche aluminium Bleu/Noir",
+     "brand": "SAXOLINE",
+     "category": "voyage",
+     "originalPrice": 599.95,
+     "promoPrice": 359.95,
+     "conditions": null
+    },
+    {
+     "product": "Trolley souple 60x42x27cm",
+     "brand": "SAXOLINE",
+     "category": "voyage",
+     "originalPrice": 649.95,
+     "promoPrice": 389.95,
+     "conditions": null
+    },
+    {
+     "product": "Trolley souple 70x47x30cm",
+     "brand": "SAXOLINE",
+     "category": "voyage",
+     "originalPrice": 699.95,
+     "promoPrice": 419.95,
+     "conditions": null
+    },
+    {
+     "product": "Lot de 4 piles Superlife AA/AAA",
+     "brand": "VARTA",
+     "category": "autre",
+     "originalPrice": 9.95,
+     "promoPrice": 7.95,
+     "conditions": null
+    },
+    {
+     "product": "Set de 60 colliers de serrage",
+     "brand": null,
+     "category": "bricolage",
+     "originalPrice": 14.95,
+     "promoPrice": 11.95,
+     "conditions": null
+    },
+    {
+     "product": "Set de 20 outils d'entretien",
+     "brand": null,
+     "category": "bricolage",
+     "originalPrice": 69.95,
+     "promoPrice": 29.95,
+     "conditions": null
+    },
+    {
+     "product": "Protection pour poignée de porte",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 29.95,
+     "promoPrice": 9.95,
+     "conditions": null
+    },
+    {
+     "product": "Tapis de salle de bain 50x80cm 1200g/m²",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 149.95,
+     "promoPrice": 129.95,
+     "conditions": null
+    },
+    {
+     "product": "Lot de 2 tapis de salle de bain 60x90cm + 60x40cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 179.95,
+     "promoPrice": 149.95,
+     "conditions": null
+    },
+    {
+     "product": "Tapis de salle de bain 40x60cm 900g/m²",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 69.95,
+     "promoPrice": 59.95,
+     "conditions": null
+    },
+    {
+     "product": "Tapis de salle de bain 50x80cm 900g/m²",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 79.95,
+     "promoPrice": 69.95,
+     "conditions": null
+    },
+    {
+     "product": "Chaise blanche 46,5x83x44cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 369.9,
+     "promoPrice": 199.9,
+     "conditions": null
+    },
+    {
+     "product": "Chaise patchwork avec accoudoirs 57x62x83cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 719.9,
+     "promoPrice": 299.9,
+     "conditions": null
+    },
+    {
+     "product": "Lampe de bureau diverses couleurs",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 239.9,
+     "promoPrice": 99.9,
+     "conditions": null
+    },
+    {
+     "product": "Meuble à chaussures 2 niveaux",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 649.9,
+     "promoPrice": 349.9,
+     "conditions": null
+    },
+    {
+     "product": "Meuble à chaussures 3 niveaux",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 799,
+     "promoPrice": 399,
+     "conditions": null
+    },
+    {
+     "product": "Meuble à chaussures 4 niveaux",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 1099,
+     "promoPrice": 499,
+     "conditions": null
+    },
+    {
+     "product": "Bureau en MDF 85x74x40cm",
+     "brand": "LUIS",
+     "category": "maison",
+     "originalPrice": 699.9,
+     "promoPrice": 389.9,
+     "conditions": null
+    },
+    {
+     "product": "Torchon nid d'abeille 50x70cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 29.9,
+     "promoPrice": 7.9,
+     "conditions": null
+    },
+    {
+     "product": "Nappe ronde ou carrée 180cm divers modèles",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 59.9,
+     "promoPrice": 39.9,
+     "conditions": null
+    },
+    {
+     "product": "Peignoir 100% coton divers modèles",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 199.9,
+     "promoPrice": 169.9,
+     "conditions": null
+    },
+    {
+     "product": "Coussin divers modèles 45x45cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 129.9,
+     "promoPrice": 59.9,
+     "conditions": null
+    },
+    {
+     "product": "Porte-manteau en métal divers modèles",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 449.9,
+     "promoPrice": 239.9,
+     "conditions": null
+    },
+    {
+     "product": "Table de chevet 40x40x50cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 699.9,
+     "promoPrice": 399.9,
+     "conditions": null
+    },
+    {
+     "product": "Couvre-lit 160x220cm + 1 taie d'oreiller 50x70cm divers motifs",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 209.9,
+     "promoPrice": 99.9,
+     "conditions": null
+    },
+    {
+     "product": "Couvre-lit 160x220cm + 1 taie d'oreiller 50x70cm diverses couleurs",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 209.9,
+     "promoPrice": 99.9,
+     "conditions": null
+    },
+    {
+     "product": "Couvre-lit 220x240cm + 2 taies d'oreiller 50x70cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 349.9,
+     "promoPrice": 149.9,
+     "conditions": null
+    },
+    {
+     "product": "Couvre-lit 240x260cm + 2 taies d'oreiller 50x70cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 399.9,
+     "promoPrice": 189.9,
+     "conditions": null
+    },
+    {
+     "product": "Pouf de rangement en velours 38x38x38cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 199.9,
+     "promoPrice": 99.9,
+     "conditions": null
+    },
+    {
+     "product": "Coffre de rangement en velours 76,5x38x38cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 349.9,
+     "promoPrice": 199.9,
+     "conditions": null
+    },
+    {
+     "product": "Pouf coffre rond de rangement en velours 50x50x40cm",
+     "brand": null,
+     "category": "maison",
+     "originalPrice": 429.9,
+     "promoPrice": 229.9,
+     "conditions": null
+    },
+    {
+     "product": "Ensemble en crêpe",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 199.9,
+     "promoPrice": 149.9,
+     "conditions": null
+    },
+    {
+     "product": "Robe longue",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 249.9,
+     "promoPrice": 229.9,
+     "conditions": null
+    },
+    {
+     "product": "Pantalon large divers coloris",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 89.9,
+     "promoPrice": 69.9,
+     "conditions": null
+    },
+    {
+     "product": "Pyjama divers modèles",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 109.9,
+     "promoPrice": 89.9,
+     "conditions": null
+    },
+    {
+     "product": "Peignoir avec ceinture et poches",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 129.9,
+     "promoPrice": 99.9,
+     "conditions": null
+    },
+    {
+     "product": "Pantoufles femme divers modèles et coloris",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 89.9,
+     "promoPrice": 64.9,
+     "conditions": null
+    },
+    {
+     "product": "Ensemble jogging divers modèles (garçon)",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 129.9,
+     "promoPrice": 109.9,
+     "conditions": null
+    },
+    {
+     "product": "Ensemble jogging homme",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 199.9,
+     "promoPrice": 159.9,
+     "conditions": null
+    },
+    {
+     "product": "Pyjama enfant divers modèles",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 49.9,
+     "promoPrice": 29.9,
+     "conditions": null
+    },
+    {
+     "product": "Sabots en plastique pour homme",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 84.9,
+     "promoPrice": 69.9,
+     "conditions": null
+    },
+    {
+     "product": "Charentaises pour homme",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 89.9,
+     "promoPrice": 69.9,
+     "conditions": null
+    },
+    {
+     "product": "Ensemble jogging divers modèles (fille)",
+     "brand": null,
+     "category": "mode",
+     "originalPrice": 129.9,
+     "promoPrice": 109.9,
+     "conditions": null
+    },
+    {
+     "product": "Blender 1,5L 450W",
+     "brand": "Moulinex",
+     "category": "electromenager",
+     "originalPrice": 419,
+     "promoPrice": 299,
+     "conditions": null
+    },
+    {
+     "product": "Blender 2L 500W",
+     "brand": "Royal",
+     "category": "electromenager",
+     "originalPrice": 499,
+     "promoPrice": 299,
+     "conditions": null
+    },
+    {
+     "product": "Robot pâtissier 4,8L 800W",
+     "brand": "Moulinex",
+     "category": "electromenager",
+     "originalPrice": 1629,
+     "promoPrice": 899,
+     "conditions": null
+    },
+    {
+     "product": "Appareil à panini 4 tranches 700W",
+     "brand": "Magic Home",
+     "category": "electromenager",
+     "originalPrice": 349,
+     "promoPrice": 249,
+     "conditions": null
+    },
+    {
+     "product": "Ensemble petit-déjeuner bouilloire 1,5L et grille-pain 850W",
+     "brand": "Tefal",
+     "category": "electromenager",
+     "originalPrice": 799,
+     "promoPrice": 499,
+     "conditions": null
+    },
+    {
+     "product": "Cafetière à capsules 20 bars",
+     "brand": "MELLERWARE",
+     "category": "electromenager",
+     "originalPrice": 1299,
+     "promoPrice": 799,
+     "conditions": "Thermos gratuit"
+    },
+    {
+     "product": "Bouilloire 1,7L",
+     "brand": "Royal",
+     "category": "electromenager",
+     "originalPrice": 149,
+     "promoPrice": 99,
+     "conditions": null
+    },
+    {
+     "product": "Bouilloire Torrent 1,7L",
+     "brand": "Taurus",
+     "category": "electromenager",
+     "originalPrice": 249,
+     "promoPrice": 159,
+     "conditions": null
+    },
+    {
+     "product": "Friteuse sans huile Air Fryer numérique 8 programmes 5,5L 1400W",
+     "brand": "MELLERWARE",
+     "category": "electromenager",
+     "originalPrice": 899,
+     "promoPrice": 549,
+     "conditions": null
+    },
+    {
+     "product": "Four électrique 70L",
+     "brand": "Royal",
+     "category": "electromenager",
+     "originalPrice": 1499,
+     "promoPrice": 999,
+     "conditions": null
+    },
+    {
+     "product": "Micro-ondes 23L 700W noir",
+     "brand": "Samsung",
+     "category": "electromenager",
+     "originalPrice": 1549,
+     "promoPrice": 1399,
+     "conditions": null
+    },
+    {
+     "product": "Défroisseur vapeur portatif 1600W",
+     "brand": "Tefal",
+     "category": "electromenager",
+     "originalPrice": 499,
+     "promoPrice": 449,
+     "conditions": null
+    },
+    {
+     "product": "Aspirateur balai 3 en 1 600W",
+     "brand": "ELITE",
+     "category": "electromenager",
+     "originalPrice": 399,
+     "promoPrice": 249,
+     "conditions": null
+    },
+    {
+     "product": "Aspirateur balai 2 en 1",
+     "brand": "Kenwood",
+     "category": "electromenager",
+     "originalPrice": 1599,
+     "promoPrice": 1299,
+     "conditions": null
+    },
+    {
+     "product": "Aspirateur",
+     "brand": "Royal",
+     "category": "electromenager",
+     "originalPrice": 799,
+     "promoPrice": 499,
+     "conditions": null
+    },
+    {
+     "product": "Fer à repasser 2200W",
+     "brand": "Taurus",
+     "category": "electromenager",
+     "originalPrice": 349,
+     "promoPrice": 199,
+     "conditions": null
+    },
+    {
+     "product": "Fer à boucler",
+     "brand": "Rowenta",
+     "category": "electromenager",
+     "originalPrice": 299,
+     "promoPrice": 269,
+     "conditions": null
+    },
+    {
+     "product": "Sèche-cheveux avec diffuseur 2200W",
+     "brand": "Jata",
+     "category": "electromenager",
+     "originalPrice": 499,
+     "promoPrice": 299,
+     "conditions": null
+    },
+    {
+     "product": "Lisseur",
+     "brand": "Rowenta",
+     "category": "electromenager",
+     "originalPrice": 299,
+     "promoPrice": 269,
+     "conditions": null
+    },
+    {
+     "product": "Fer à repasser 2400W",
+     "brand": "Severin",
+     "category": "electromenager",
+     "originalPrice": 399,
+     "promoPrice": 299,
+     "conditions": null
+    },
+    {
+     "product": "Brosse électrique 5en1 800W",
+     "brand": "Rowenta",
+     "category": "electromenager",
+     "originalPrice": 699,
+     "promoPrice": 599,
+     "conditions": null
+    },
+    {
+     "product": "Tondeuse à cheveux haute précision",
+     "brand": "Rowenta",
+     "category": "electromenager",
+     "originalPrice": 319,
+     "promoPrice": 199,
+     "conditions": null
+    },
+    {
+     "product": "TV QLED 32\" S5K Full HD Smart TV",
+     "brand": "TCL",
+     "category": "high-tech",
+     "originalPrice": 1999,
+     "promoPrice": 1799,
+     "conditions": "Crédit gratuit 200 DH x 9 mois"
+    },
+    {
+     "product": "TV LED 43\" Q7000 Full HD Smart TV récepteur intégré",
+     "brand": "ON",
+     "category": "high-tech",
+     "originalPrice": 2999,
+     "promoPrice": 1999,
+     "conditions": "Crédit gratuit 223 DH x 9 mois"
+    },
+    {
+     "product": "TV LED 43\" TKS-43-SM-01 Full HD Smart TV",
+     "brand": "KRÖHLER",
+     "category": "high-tech",
+     "originalPrice": 3099,
+     "promoPrice": 2299,
+     "conditions": "Crédit gratuit 256 DH x 9 mois"
+    },
+    {
+     "product": "QLED TV 50\" Q6500H 4K UHD Smart TV",
+     "brand": "Skyworth",
+     "category": "high-tech",
+     "originalPrice": 4599,
+     "promoPrice": 4190,
+     "conditions": "Crédit gratuit 350 DH x 12 mois"
+    },
+    {
+     "product": "TV QLED 55\" P7K/P7L 4K UHD Smart TV",
+     "brand": "TCL",
+     "category": "high-tech",
+     "originalPrice": 5299,
+     "promoPrice": 4999,
+     "conditions": "Crédit gratuit 417 DH x 12 mois"
+    },
+    {
+     "product": "TV Mini LED 55\" C6K 4K UHD Smart TV",
+     "brand": "TCL",
+     "category": "high-tech",
+     "originalPrice": 7299,
+     "promoPrice": 6799,
+     "conditions": "Crédit gratuit 567 DH x 12 mois"
+    },
+    {
+     "product": "TV Q-NED 65\" QNED70B6T/72B6T 4K UHD Smart TV",
+     "brand": "LG",
+     "category": "high-tech",
+     "originalPrice": 8999,
+     "promoPrice": 7499,
+     "conditions": null
+    },
+    {
+     "product": "Montre connectée Z7 Ultra écran 1.46\" Amoled",
+     "brand": "PUNEX",
+     "category": "high-tech",
+     "originalPrice": 279,
+     "promoPrice": 229,
+     "conditions": null
+    },
+    {
+     "product": "Brassard de sport porte-téléphone",
+     "brand": "LOVPHONE",
+     "category": "telecom",
+     "originalPrice": 79,
+     "promoPrice": 29,
+     "conditions": null
+    },
+    {
+     "product": "Pack gaming C53 clavier + souris + casque",
+     "brand": null,
+     "category": "informatique",
+     "originalPrice": 299,
+     "promoPrice": 239,
+     "conditions": null
+    },
+    {
+     "product": "Manette de jeu pour PC",
+     "brand": "UCOM",
+     "category": "informatique",
+     "originalPrice": 79,
+     "promoPrice": 59,
+     "conditions": null
+    },
+    {
+     "product": "Chargeur de voiture double port USB 36W DK-720",
+     "brand": "PUNEX",
+     "category": "telecom",
+     "originalPrice": 99,
+     "promoPrice": 65,
+     "conditions": null
+    },
+    {
+     "product": "Bracelet de montre magnétique en silicone diverses couleurs",
+     "brand": null,
+     "category": "high-tech",
+     "originalPrice": 79,
+     "promoPrice": 59,
+     "conditions": null
+    },
+    {
+     "product": "Câble audio USB-C vers jack 3,5mm K-011",
+     "brand": "CIK",
+     "category": "high-tech",
+     "originalPrice": 59,
+     "promoPrice": 39,
+     "conditions": null
+    },
+    {
+     "product": "Casque Bluetooth MZ003 divers coloris",
+     "brand": "CAT",
+     "category": "high-tech",
+     "originalPrice": 149,
+     "promoPrice": 99,
+     "conditions": null
+    },
+    {
+     "product": "Casque stéréo sans fil T60 / T40",
+     "brand": "PUNEX",
+     "category": "high-tech",
+     "originalPrice": 249,
+     "promoPrice": 149,
+     "conditions": null
+    },
+    {
+     "product": "Écouteurs filaires USB-C PX2",
+     "brand": "PUNEX",
+     "category": "high-tech",
+     "originalPrice": 39,
+     "promoPrice": 19,
+     "conditions": null
+    },
+    {
+     "product": "Réfrigérateur Side by Side CHSBSO-6174B15 532L",
+     "brand": "CANDY",
+     "category": "electromenager",
+     "originalPrice": 11999,
+     "promoPrice": 7999,
+     "conditions": "Crédit gratuit 667 DH x 12 mois"
+    },
+    {
+     "product": "Réfrigérateur R200 200L",
+     "brand": "Royal",
+     "category": "electromenager",
+     "originalPrice": 3299,
+     "promoPrice": 2599,
+     "conditions": "Crédit gratuit 217 DH x 12 mois"
+    },
+    {
+     "product": "Machine à laver B1W73235WMA 7kg",
+     "brand": "Beko",
+     "category": "electromenager",
+     "originalPrice": 3199,
+     "promoPrice": 2599,
+     "conditions": "Crédit gratuit 217 DH x 12 mois"
+    },
+    {
+     "product": "Machine à laver EY 2988G-15 9kg",
+     "brand": "CANDY",
+     "category": "electromenager",
+     "originalPrice": 3999,
+     "promoPrice": 2999,
+     "conditions": "Crédit gratuit 250 DH x 12 mois"
+    },
+    {
+     "product": "Machine à laver KFL-12-BLDC 11kg",
+     "brand": "KRÖHLER",
+     "category": "electromenager",
+     "originalPrice": 4999,
+     "promoPrice": 3599,
+     "conditions": "Crédit gratuit 300 DH x 12 mois"
+    },
+    {
+     "product": "Lave-vaisselle ZEND1300XA 13 couverts",
+     "brand": "ZENYA",
+     "category": "electromenager",
+     "originalPrice": 3299,
+     "promoPrice": 1999,
+     "conditions": null
+    },
+    {
+     "product": "Plaque de cuisson PGP-800 4 feux 60x60cm",
+     "brand": "KRÖHLER",
+     "category": "electromenager",
+     "originalPrice": 1199,
+     "promoPrice": 799,
+     "conditions": null
+    },
+    {
+     "product": "Chauffe-eau à gaz JSD12-6C/JSD12-6A 6 litres",
      "brand": "Siera",
      "category": "electromenager",
      "originalPrice": 1199,

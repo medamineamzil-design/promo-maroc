@@ -1,142 +1,5 @@
 {
  "catalogues": {
-  "https://www.bim.ma#09 OCTOBRE 2026#2c10816e2e": {
-   "sourceId": "bim",
-   "store": "BIM",
-   "title": "Vendredi à partir du 09 Octobre",
-   "page": "https://www.bim.ma",
-   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-33-11-SPOT%20BIM%2009%20OCTOBRE%202026.jpg",
-   "startDate": "2026-10-09",
-   "endDate": null,
-   "cities": null,
-   "readAt": "2026-10-08",
-   "lastSeen": "2026-10-15",
-   "products": [
-    {
-     "product": "Chaussure décontractée en toile pour homme (pointures 41-44)",
-     "brand": "VESTEJO",
-     "category": "mode",
-     "originalPrice": 119.9,
-     "promoPrice": 89.9,
-     "conditions": null
-    },
-    {
-     "product": "Baskets en toile à semelle haute pour femme (pointures 37-40)",
-     "brand": "VESTEJO",
-     "category": "mode",
-     "originalPrice": 119.9,
-     "promoPrice": 89.9,
-     "conditions": null
-    }
-   ]
-  },
-  "https://www.bim.ma#02 OCTOBRE 2026#f731e5f5bc": {
-   "sourceId": "bim",
-   "store": "BIM",
-   "title": "Vendredi à partir du 02 Octobre – Bil9lil… chri lktir !",
-   "page": "https://www.bim.ma",
-   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-34-36-WEB%20SPOT%20BIM%2002%20OCTOBRE%202026.jpg",
-   "startDate": "2026-10-02",
-   "endDate": null,
-   "cities": null,
-   "readAt": "2026-10-08",
-   "lastSeen": "2026-10-15",
-   "products": [
-    {
-     "product": "Sandales élégantes pour fillettes (taille 29-35)",
-     "brand": null,
-     "category": "mode",
-     "originalPrice": 99.9,
-     "promoPrice": 59.9,
-     "conditions": null
-    },
-    {
-     "product": "Sandales simples pour hommes (taille 40-45)",
-     "brand": null,
-     "category": "mode",
-     "originalPrice": 49.9,
-     "promoPrice": 34.9,
-     "conditions": null
-    },
-    {
-     "product": "Sandales simples pour femmes (taille 36-41)",
-     "brand": null,
-     "category": "mode",
-     "originalPrice": 49.9,
-     "promoPrice": 34.9,
-     "conditions": null
-    },
-    {
-     "product": "Pyjama robe pour femmes (S-M-L-XL)",
-     "brand": "FLORA MODE",
-     "category": "mode",
-     "originalPrice": 69.9,
-     "promoPrice": 49.9,
-     "conditions": null
-    },
-    {
-     "product": "Haut parleur - karaoké pour enfants",
-     "brand": null,
-     "category": "high-tech",
-     "originalPrice": 119.9,
-     "promoPrice": 89.9,
-     "conditions": null
-    },
-    {
-     "product": "Kit de protection pour enfants 3 pièces",
-     "brand": null,
-     "category": "sport",
-     "originalPrice": 49.9,
-     "promoPrice": 29.9,
-     "conditions": null
-    },
-    {
-     "product": "Jouet électroménager",
-     "brand": null,
-     "category": "autre",
-     "originalPrice": 119.9,
-     "promoPrice": 79.9,
-     "conditions": null
-    },
-    {
-     "product": "Poupée abeille 36 cm",
-     "brand": null,
-     "category": "autre",
-     "originalPrice": 69.9,
-     "promoPrice": 49.9,
-     "conditions": null
-    },
-    {
-     "product": "Tour à empiler 9 pièces",
-     "brand": null,
-     "category": "bebe",
-     "originalPrice": 19.9,
-     "promoPrice": 14.9,
-     "conditions": null
-    },
-    {
-     "product": "Visionneuse 3D d'animaux",
-     "brand": null,
-     "category": "autre",
-     "originalPrice": 19.9,
-     "promoPrice": 14.9,
-     "conditions": null
-    }
-   ]
-  },
-  "https://www.bim.ma#06 OCTOBRE 2026#9f0da2aff1": {
-   "sourceId": "bim",
-   "store": "BIM",
-   "title": "Mardi à partir du 06 Octobre",
-   "page": "https://www.bim.ma",
-   "file": "https://www.bim.ma/Uploads/ma/Files/7-10-2026-13-35-26-WEBGROUPE%20SPOT%20BIM%2006%20OCTOBRE%202026.jpg",
-   "startDate": "2026-10-06",
-   "endDate": null,
-   "cities": null,
-   "readAt": "2026-10-08",
-   "lastSeen": "2026-10-15",
-   "products": []
-  },
   "https://www.aswakassalam.com/Import_catalogue/catalogue_braderie/": {
    "sourceId": "aswak-catalogue",
    "store": "Aswak Assalam",
@@ -1345,7 +1208,7 @@
    "endDate": "2026-11-01",
    "cities": null,
    "readAt": "2026-10-15",
-   "lastSeen": "2026-10-15",
+   "lastSeen": "2026-10-16",
    "products": [
     {
      "product": "Service à soupe en porcelaine 15 pièces, divers modèles",
@@ -2553,6 +2416,36 @@
      "category": "electromenager",
      "originalPrice": 1199,
      "promoPrice": 1149,
+     "conditions": null
+    }
+   ]
+  },
+  "https://www.bim.ma#09 OCTOBRE 2026#2cbc878807": {
+   "sourceId": "bim",
+   "store": "BIM",
+   "title": "Vendredi - À partir du 09 Octobre",
+   "page": "https://www.bim.ma",
+   "file": "https://www.bim.ma/Uploads/ma/Files/15-10-2026-18-10-54-SPOT%20BIM%2009%20OCTOBRE%202026.jpg",
+   "startDate": "2026-10-09",
+   "endDate": null,
+   "cities": null,
+   "readAt": "2026-10-16",
+   "lastSeen": "2026-10-16",
+   "products": [
+    {
+     "product": "Chaussure décontractée en toile pour homme (pointures 41-44)",
+     "brand": "VESTEJO",
+     "category": "mode",
+     "originalPrice": 119.9,
+     "promoPrice": 89.9,
+     "conditions": null
+    },
+    {
+     "product": "Baskets en toile à semelle haute pour femme (pointures 37-40)",
+     "brand": "VESTEJO",
+     "category": "mode",
+     "originalPrice": 119.9,
+     "promoPrice": 89.9,
      "conditions": null
     }
    ]

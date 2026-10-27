@@ -1208,7 +1208,7 @@
    "endDate": "2026-11-01",
    "cities": null,
    "readAt": "2026-10-15",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "products": [
     {
      "product": "Service à soupe en porcelaine 15 pièces, divers modèles",
@@ -2420,17 +2420,17 @@
     }
    ]
   },
-  "https://www.bim.ma#30 Octobre 2026#95bb95e842": {
+  "https://www.bim.ma#30 Octobre 2026#2768742799": {
    "sourceId": "bim",
    "store": "BIM",
    "title": "Vendredi à partir du 30 Octobre",
    "page": "https://www.bim.ma",
-   "file": "https://www.bim.ma/Uploads/ma/Files/26-10-2026-13-22-09-Spot%20BIM%2030%20Octobre%202026.jpg",
+   "file": "https://www.bim.ma/Uploads/ma/Files/26-10-2026-14-24-20-Spot%20BIM%2030%20Octobre%202026.jpg",
    "startDate": "2026-10-30",
    "endDate": null,
    "cities": null,
-   "readAt": "2026-10-26",
-   "lastSeen": "2026-10-26",
+   "readAt": "2026-10-27",
+   "lastSeen": "2026-10-27",
    "products": []
   }
  }
